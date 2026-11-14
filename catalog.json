@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "id": "game-1326470",
+    "appid": 1326470,
+    "name": "Sons Of The Forest",
+    "developer": "Endnight Games Ltd",
+    "publisher": "Newnight ",
+    "installdir": "Sons Of The Forest",
+    "launch_exes": [
+      "SonsOfTheForest.exe"
+    ],
+    "launch_exe": "SonsOfTheForest.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "20228174",
+    "has_metadata": true,
+    "depot_base": 1326471,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "20228174",
+        "branch": "public Unity security update",
+        "label": "public Unity security update - Build 20228174 (10/03/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1326471"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794665970
+  }
+]
