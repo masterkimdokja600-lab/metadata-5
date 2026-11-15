@@ -709,5 +709,71 @@
     ],
     "json_rev": 1,
     "added_ts": 1794718156
+  },
+  {
+    "id": "game-2999030",
+    "appid": 2999030,
+    "name": "Exploding Kittens® 2",
+    "developer": "Marmalade Game Studio Ltd",
+    "publisher": "Marmalade Game Studio Ltd",
+    "installdir": "Exploding Kittens 2",
+    "launch_exes": [
+      "ExplodingKittens.exe"
+    ],
+    "launch_exe": "ExplodingKittens.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26052454",
+    "has_metadata": true,
+    "depot_base": 2999031,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2999030/367ec90d632cf19ce48145605c36d5d6a8335ad1/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2999030/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26052454",
+        "branch": "public",
+        "label": "Public - Build 26052454 (10/19/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2999031"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794766615
   }
 ]
