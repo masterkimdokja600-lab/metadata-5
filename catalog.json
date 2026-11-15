@@ -1,5 +1,77 @@
 [
   {
+    "id": "game-1244460",
+    "appid": 1244460,
+    "name": "Jurassic World Evolution 2",
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "installdir": "Jurassic World Evolution 2",
+    "launch_exes": [
+      "Galileo.release.exe",
+      "Galileo.profile.exe",
+      "galileo.exe",
+      "JWE2.release.exe",
+      "JWE2.profile.exe",
+      "JWE2.exe"
+    ],
+    "launch_exe": "Galileo.release.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "18857191",
+    "has_metadata": true,
+    "depot_base": 1244461,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1244460/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "18857191",
+        "branch": "public Jurassic World Evolution 2 | Update 1.11.3",
+        "label": "public Jurassic World Evolution 2 | Update 1.11.3 - Build 18857191 (06/13/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1244461"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794717776
+  },
+  {
     "id": "game-1326470",
     "appid": 1326470,
     "name": "Sons Of The Forest",
