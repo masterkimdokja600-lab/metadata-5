@@ -18,6 +18,24 @@
           "download": 17238643184
         }
       }
+    },
+    {
+      "buildId": "25482559",
+      "branch": "public Jurassic World Evolution 3: Prehistoric East - Out Now!",
+      "timeUpdated": 1790169735,
+      "firstSeen": 1794718271,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "2958131": {
+          "gid": "4041828021370443091",
+          "size": 26316191705,
+          "download": 17076284640
+        }
+      }
     }
   ],
   "_change_number": 40931554,
