@@ -553,6 +553,303 @@
     "added_ts": 1794740855
   },
   {
+    "id": "game-239140",
+    "appid": 239140,
+    "name": "Dying Light",
+    "developer": "Techland",
+    "publisher": "Techland",
+    "installdir": "Dying Light",
+    "launch_exes": [
+      "DyingLightGame.exe",
+      "DyingLightGame",
+      "DyingLightGame.app",
+      "DevTools/DyingLightPlayer.exe",
+      "DyingLightPlayer.exe",
+      "DevTools/DyingLightGame",
+      "DyingLightGame_x64_rd.exe"
+    ],
+    "launch_exe": "DyingLightGame.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24076292",
+    "has_metadata": true,
+    "depot_base": 239141,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/239140/b962a5213054357b157b0fe45bf9db41b5739886/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/239140/3539bca30b6fd66a8d2bc64578bdb3d52ac8967f/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24076292",
+        "branch": "public",
+        "label": "Public - Build 24076292 (07/06/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228984",
+          "228988",
+          "228990",
+          "239141",
+          "239142",
+          "239143",
+          "239144",
+          "239145",
+          "239146",
+          "239147",
+          "239148",
+          "239149",
+          "239150",
+          "239151",
+          "239152",
+          "239153",
+          "239154",
+          "239155",
+          "239156",
+          "239157",
+          "239158",
+          "239159",
+          "302100",
+          "302104",
+          "302105",
+          "302106",
+          "302108",
+          "302109",
+          "325718",
+          "325719",
+          "325723",
+          "325724",
+          "325726",
+          "325727",
+          "325728",
+          "325729",
+          "335811",
+          "335812",
+          "335813",
+          "335814",
+          "335815",
+          "335816",
+          "335817",
+          "335818",
+          "335819",
+          "347091",
+          "347092",
+          "347093",
+          "412920",
+          "412921",
+          "412922",
+          "412923",
+          "415370",
+          "798540",
+          "798541",
+          "798542",
+          "798543",
+          "1034630"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 239142,
+            "key": "lang:hungarian",
+            "lang": "hungarian",
+            "label": "Magyar (Hungarian)",
+            "source": "depot"
+          },
+          {
+            "id": 239146,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 239147,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 239148,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 239149,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 239150,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 239152,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 335818,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 239142,
+        "key": "lang:hungarian",
+        "lang": "hungarian",
+        "label": "Magyar (Hungarian)",
+        "source": "depot"
+      },
+      {
+        "id": 239146,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 239147,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 239148,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 239149,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 239150,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 239152,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 335818,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 239142,
+        "key": "lang:hungarian",
+        "lang": "hungarian",
+        "label": "Magyar (Hungarian)",
+        "source": "depot"
+      },
+      {
+        "id": 239146,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 239147,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 239148,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 239149,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 239150,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 239152,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 335818,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794794672
+  },
+  {
     "id": "game-2920220",
     "appid": 2920220,
     "name": "Terrible Lizards",
