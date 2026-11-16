@@ -72,6 +72,428 @@
     "added_ts": 1794717776
   },
   {
+    "id": "game-1259970",
+    "appid": 1259970,
+    "name": "eFootball PES 2021 SEASON UPDATE",
+    "developer": "Konami Digital Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "installdir": "eFootball PES 2021",
+    "launch_exes": [
+      "PES2021.exe"
+    ],
+    "launch_exe": "PES2021.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "8701766",
+    "has_metadata": true,
+    "depot_base": 1259971,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1259970/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1259970/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "8701766",
+        "branch": "public",
+        "label": "Public - Build 8701766 (05/09/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "229005",
+          "1259971",
+          "1259972",
+          "1259973",
+          "1259974",
+          "1259975",
+          "1259976",
+          "1259977",
+          "1259978",
+          "1259979",
+          "1263890",
+          "1263891",
+          "1263892",
+          "1263893",
+          "1263894",
+          "1263895",
+          "1263896",
+          "1263897",
+          "1263898",
+          "1263899"
+        ],
+        "languages": [
+          {
+            "id": 1259972,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 1259973,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 1259974,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 1259975,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 1259976,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 1259977,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 1259978,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 1259979,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 1263890,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 1263891,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 1263892,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 1263893,
+            "key": "lang:greek",
+            "lang": "greek",
+            "label": "Greek",
+            "source": "depot"
+          },
+          {
+            "id": 1263894,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 1263895,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 1263896,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 1263897,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 1263899,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 1259972,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 1259973,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 1259974,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 1259975,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 1259976,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 1259977,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 1259978,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 1259979,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 1263890,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 1263891,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 1263892,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 1263893,
+        "key": "lang:greek",
+        "lang": "greek",
+        "label": "Greek",
+        "source": "depot"
+      },
+      {
+        "id": 1263894,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 1263895,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 1263896,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 1263897,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 1263899,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 1259972,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 1259973,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 1259974,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 1259975,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 1259976,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 1259977,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 1259978,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 1259979,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 1263890,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 1263891,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 1263892,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 1263893,
+        "key": "lang:greek",
+        "lang": "greek",
+        "label": "Greek",
+        "source": "depot"
+      },
+      {
+        "id": 1263894,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 1263895,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 1263896,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 1263897,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 1263899,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794842715
+  },
+  {
     "id": "game-1326470",
     "appid": 1326470,
     "name": "Sons Of The Forest",
