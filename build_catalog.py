@@ -476,6 +476,15 @@ def build_catalog(repo_dir: Path | None = None) -> list[dict]:
             data = json.loads(json_file.read_text(encoding="utf-8"))
             info = _parse_game_info_from_json(data, aid, repo_dir)
 
+            note_file = item / "launcher_note.json"
+            if note_file.is_file():
+                try:
+                    note = json.loads(note_file.read_bytes())
+                    if isinstance(note, dict):
+                        info["launcher_note"] = note
+                except (OSError, ValueError) as error:
+                    print(f"  [!] Không đọc được ghi chú của {aid}: {error}")
+
             # added_ts: ưu tiên catalog cũ -> git history -> game mới hoàn toàn thì stamp NOW
             # Dùng str() để tránh int/str type mismatch giữa info["appid"] và prev_added keys
             _prev_keys_str = {str(k) for k in prev_added}

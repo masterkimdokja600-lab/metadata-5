@@ -1,0 +1,101 @@
+{
+  "intro": "Đây là bản game gốc, khuyến nghị mọi người tải các bản patch sau đây để có trải nghiệm được tốt nhất:",
+  "sections": [
+    {
+      "title": "PES 2021 STEAM GỐC",
+      "items": [
+        "Sử dụng bản Steam sạch, chưa cài mod."
+      ]
+    },
+    {
+      "title": "VIRTUARED PATCH",
+      "items": [
+        "VirtuaRED v10 AIO",
+        "VirtuaRED Update v10.1",
+        "VirtuaRED Update v10.2"
+      ],
+      "links": [
+        {
+          "label": "Trang chủ VirtuaRED",
+          "url": "https://www.virtuared.com/foro/viewtopic.php?t=18813"
+        }
+      ]
+    },
+    {
+      "title": "VIRTUARED STADIUM SERVER",
+      "items": [
+        "Stadiums v10 AIO",
+        "Stadiums Update v10.2"
+      ],
+      "links": [
+        {
+          "label": "Xem phần Stadium Server",
+          "url": "https://www.virtuared.com/foro/viewtopic.php?t=18813"
+        }
+      ]
+    },
+    {
+      "title": "UML 2026 V2 AIO - VIRTUARED COMPATIBLE",
+      "links": [
+        {
+          "label": "Full v2 AIO",
+          "url": "https://files.caotech.net/p/7nwCGqWHrAXI9rN2NB6F3Flq/uml-2026-v2-virtuared-compatible-version-rar"
+        },
+        {
+          "label": "EDIT00000000",
+          "url": "https://files.caotech.net/p/3zGLbj_PlIMUMuyO26UYUYN5/edit00000000"
+        },
+        {
+          "label": "Install Instructions",
+          "url": "https://files.caotech.net/p/HbX1SMJapqvOSKIb8tSfCqro/install-instructions.png"
+        },
+        {
+          "label": "UML Menu Fix v2",
+          "url": "https://files.caotech.net/p/OSbbVdQCRKbKbAPsviJWI752/uml_menu-fix.rar"
+        }
+      ]
+    },
+    {
+      "title": "UML 2026 V3 UPDATE - VIRTUARED COMPATIBLE",
+      "links": [
+        {
+          "label": "Version 3 Update",
+          "url": "https://files.caotech.net/p/BE39VD0lFTILnLpJTypMQ_vc/uml-2026-v3-virtuared-compatible-version-rar"
+        },
+        {
+          "label": "EDIT00000000",
+          "url": "https://files.caotech.net/p/GLUatWPSfucbbnitV0iXr9RZ/edit00000000"
+        },
+        {
+          "label": "Install Instructions",
+          "url": "https://files.caotech.net/p/4UpVf3sXFnYiMcGJRylJU2DQ/install-instructions.png"
+        },
+        {
+          "label": "Ball Server Fix v3",
+          "url": "https://files.caotech.net/p/4jFZm2CqNzuH5dKkPF6zi3BL/ball-server-for-uml-2026-v3.rar"
+        },
+        {
+          "label": "World Cup Addon Fix",
+          "url": "https://files.caotech.net/p/0nfBNnifH8fDyOyBN-qV755o/virtuared-compatible-version-fix-wc-world-cup-rar"
+        }
+      ]
+    },
+    {
+      "title": "OPTIONAL ADDONS",
+      "links": [
+        {
+          "label": "Retro Kits",
+          "url": "https://files.caotech.net/p/_riOreVCK41N0E8ipHZlIZL3/uml-2026-v1-retro-kits.rar"
+        },
+        {
+          "label": "Alternative Menus (14 Club Themes)",
+          "url": "https://files.caotech.net/p/LEzutu6Iwfwd7So2QTppAdKJ/pes-2021-menus-uml-2026.rar"
+        },
+        {
+          "label": "UML 2026 Default Menu",
+          "url": "https://files.caotech.net/p/tyPVIJUGvd9nl0i0ue_JZiEf/uml-2026-default-menu.rar"
+        }
+      ]
+    }
+  ]
+}
