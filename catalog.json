@@ -1091,6 +1091,73 @@
     "added_ts": 1794665970
   },
   {
+    "id": "game-1702330",
+    "appid": 1702330,
+    "name": "Rune Factory 5",
+    "developer": "Marvelous Inc.",
+    "publisher": "XSEED Games",
+    "installdir": "Rune Factory 5",
+    "launch_exes": [
+      "Rune Factory 5.exe",
+      "RuneFactory5Launcher.exe"
+    ],
+    "launch_exe": "Rune Factory 5.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "20333604",
+    "has_metadata": true,
+    "depot_base": 1702331,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1702330/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1702330/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "20333604",
+        "branch": "public Patch Notes - Dec. 12, 2025",
+        "label": "public Patch Notes - Dec. 12, 2025 - Build 20333604 (10/10/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "1702331"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794932707
+  },
+  {
     "id": "game-1774580",
     "appid": 1774580,
     "name": "STAR WARS Jedi: Survivor™",
