@@ -2573,6 +2573,462 @@
     "added_ts": 1794766615
   },
   {
+    "id": "game-3595230",
+    "appid": 3595230,
+    "name": "Call of Duty®: Modern Warfare® II",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "installdir": "Call of Duty Modern Warfare II",
+    "launch_exes": [
+      "bootstrapper.exe"
+    ],
+    "launch_exe": "bootstrapper.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "19282068",
+    "has_metadata": true,
+    "depot_base": 3595231,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3595230/89267cd5928eebbb7ec07562e912717eba09ebc2/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "19282068",
+        "branch": "public FIRST RELEASE",
+        "label": "public FIRST RELEASE - Build 19282068 (07/19/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3595232",
+          "3595233",
+          "3595234",
+          "3595235",
+          "3595236",
+          "3595237",
+          "3595238",
+          "3595239",
+          "3602840",
+          "3602841",
+          "3602842",
+          "3602843",
+          "3602844",
+          "3602845",
+          "3602846",
+          "3602847",
+          "3602848",
+          "3602849",
+          "3602850",
+          "3602851",
+          "3602852",
+          "3602854",
+          "3602855",
+          "3602856",
+          "3602857",
+          "3602858",
+          "3602859",
+          "3602860",
+          "3602861",
+          "3602862",
+          "3602863",
+          "3602864",
+          "3602865",
+          "3602866",
+          "3602867",
+          "3602868",
+          "3602869",
+          "3602970",
+          "3602971",
+          "3602972",
+          "3602973",
+          "3602975",
+          "3602976",
+          "3602977",
+          "3602978",
+          "3602979",
+          "3603161",
+          "3603162",
+          "3603163",
+          "3603164",
+          "3603165",
+          "3603166",
+          "3603167",
+          "3603168",
+          "3603169",
+          "3603171",
+          "3603172",
+          "3603173",
+          "3603174",
+          "3603176",
+          "3603177",
+          "3603178",
+          "3603179",
+          "3603181",
+          "3603182",
+          "3603183",
+          "3603184",
+          "3603185",
+          "3603186",
+          "3603187",
+          "3603188",
+          "3603189",
+          "3603191",
+          "3603192",
+          "3603193",
+          "3603194",
+          "3603195",
+          "3603196",
+          "3603197",
+          "3603198",
+          "3603199",
+          "3603201",
+          "3603202",
+          "3603203",
+          "3603204",
+          "3603205",
+          "3603206",
+          "3603207",
+          "3603208",
+          "3603209",
+          "3603211",
+          "3603212",
+          "3603213",
+          "3603214",
+          "3603215",
+          "3603216",
+          "3603217"
+        ],
+        "languages": [
+          {
+            "id": 3603198,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 3603199,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3603201,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3603202,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3603203,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3603204,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean) (콜 오브 듀티®: 모던 워페어 II 2022)",
+            "source": "depot"
+          },
+          {
+            "id": 3603205,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3603206,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          },
+          {
+            "id": 3603207,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 3603208,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 3603209,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 3603211,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3603212,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 3603213,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 3603214,
+            "key": "lang:thai",
+            "lang": "thai",
+            "label": "ไทย (Thai)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 3603198,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 3603199,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3603201,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3603202,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3603203,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3603204,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean) (콜 오브 듀티®: 모던 워페어 II 2022)",
+        "source": "depot"
+      },
+      {
+        "id": 3603205,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3603206,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      },
+      {
+        "id": 3603207,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3603208,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3603209,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 3603211,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3603212,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 3603213,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 3603214,
+        "key": "lang:thai",
+        "lang": "thai",
+        "label": "ไทย (Thai)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 3603198,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 3603199,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3603201,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3603202,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3603203,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3603204,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean) (콜 오브 듀티®: 모던 워페어 II 2022)",
+        "source": "depot"
+      },
+      {
+        "id": 3603205,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3603206,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      },
+      {
+        "id": 3603207,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3603208,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3603209,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 3603211,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3603212,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 3603213,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 3603214,
+        "key": "lang:thai",
+        "lang": "thai",
+        "label": "ไทย (Thai)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794937044
+  },
+  {
     "id": "game-4530780",
     "appid": 4530780,
     "name": "The Hust Banhmi | Bánh Mì Bách Khoa",
