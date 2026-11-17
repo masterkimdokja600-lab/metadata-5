@@ -75,6 +75,362 @@
     "added_ts": 1794891342
   },
   {
+    "id": "game-1238810",
+    "appid": 1238810,
+    "name": "Battlefield™ V",
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "installdir": "Battlefield V",
+    "launch_exes": [
+      "steam2ea://launchgame/1238810?platform=steam&theme=bfv",
+      "1238810?platform=steam&theme=bfv"
+    ],
+    "launch_exe": "steam2ea://launchgame/1238810?platform=steam&theme=bfv",
+    "launch_exe_after_fix": "",
+    "build_id": "5085388",
+    "has_metadata": true,
+    "depot_base": 1238811,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238810/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "5085388",
+        "branch": "public FIRST RELEASE",
+        "label": "public FIRST RELEASE - Build 5085388 (05/27/2020)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1238811",
+          "1238812",
+          "1238813",
+          "1238814",
+          "1238815",
+          "1238816",
+          "1238817",
+          "1238818",
+          "1238819",
+          "1254583",
+          "1254584",
+          "1254585",
+          "1254586",
+          "1254587",
+          "1254588",
+          "3340991",
+          "3893181"
+        ],
+        "languages": [
+          {
+            "id": 1238812,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 1238813,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 1238814,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 1238815,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 1238816,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 1238817,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 1238818,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 1238819,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 1254583,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 1254584,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 1254585,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 1254586,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          },
+          {
+            "id": 1254587,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 1254588,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 1238812,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 1238813,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 1238814,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 1238815,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 1238816,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 1238817,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 1238818,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 1238819,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 1254583,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 1254584,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 1254585,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 1254586,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      },
+      {
+        "id": 1254587,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 1254588,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 1238812,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 1238813,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 1238814,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 1238815,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 1238816,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 1238817,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 1238818,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 1238819,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 1254583,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 1254584,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 1254585,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 1254586,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      },
+      {
+        "id": 1254587,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 1254588,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794917879
+  },
+  {
     "id": "game-1244460",
     "appid": 1244460,
     "name": "Jurassic World Evolution 2",
