@@ -1871,6 +1871,73 @@
     "added_ts": 1794794672
   },
   {
+    "id": "game-2584270",
+    "appid": 2584270,
+    "name": "Mortal Shell II",
+    "developer": "Cold Symmetry",
+    "publisher": "Playstack",
+    "installdir": "Sparta",
+    "launch_exes": [
+      "MortalShell2.exe"
+    ],
+    "launch_exe": "MortalShell2.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26640691",
+    "has_metadata": true,
+    "depot_base": 2584271,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2584270/e92804cbd8a37fbf08e19c55ab6a0ce7f0f25bf5/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2584270/9c1d28f0566f64f396c25a87367a38ffc43b663e/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26640691",
+        "branch": "public Mortal Shell 2 Hotfix: Nov 16, 2026",
+        "label": "public Mortal Shell 2 Hotfix: Nov 16, 2026 - Build 26640691 (11/13/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2584271"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794973636
+  },
+  {
     "id": "game-2920220",
     "appid": 2920220,
     "name": "Terrible Lizards",
