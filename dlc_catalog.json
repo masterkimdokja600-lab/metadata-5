@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794979090,
+  "updated_at": 1794979720,
   "total_games": 12,
   "total_dlcs": 196,
   "games": {
@@ -228,7 +228,7 @@
     "218630": {
       "appid": "218630",
       "name": "PAYDAY 2: Career Criminal Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/218630/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/218630.json"
@@ -236,7 +236,7 @@
     "247450": {
       "appid": "247450",
       "name": "PAYDAY 2: Pre-order Bonus",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/247450/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/247450.json"
@@ -347,8 +347,8 @@
     },
     "302100": {
       "appid": "302100",
-      "name": "",
-      "image": "",
+      "name": "AppID 302100",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/302100/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
@@ -363,16 +363,16 @@
     },
     "302102": {
       "appid": "302102",
-      "name": "",
-      "image": "",
+      "name": "AppID 302102",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/302102/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "302103": {
       "appid": "302103",
-      "name": "",
-      "image": "",
+      "name": "AppID 302103",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/302103/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
@@ -380,7 +380,7 @@
     "306110": {
       "appid": "306110",
       "name": "PAYDAY 2: Humble Mask Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306110/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/306110.json"
@@ -404,7 +404,7 @@
     "318720": {
       "appid": "318720",
       "name": "PAYDAY 2: Alienware Alpha Mauler",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/318720/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/318720.json"
@@ -427,88 +427,88 @@
     },
     "325710": {
       "appid": "325710",
-      "name": "",
-      "image": "",
+      "name": "AppID 325710",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325710/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325711": {
       "appid": "325711",
-      "name": "",
-      "image": "",
+      "name": "AppID 325711",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325711/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325712": {
       "appid": "325712",
-      "name": "",
-      "image": "",
+      "name": "AppID 325712",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325712/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325713": {
       "appid": "325713",
-      "name": "",
-      "image": "",
+      "name": "AppID 325713",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325713/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325714": {
       "appid": "325714",
-      "name": "",
-      "image": "",
+      "name": "AppID 325714",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325714/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325715": {
       "appid": "325715",
-      "name": "",
-      "image": "",
+      "name": "AppID 325715",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325715/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325716": {
       "appid": "325716",
-      "name": "",
-      "image": "",
+      "name": "AppID 325716",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325716/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325717": {
       "appid": "325717",
-      "name": "",
-      "image": "",
+      "name": "AppID 325717",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325717/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325720": {
       "appid": "325720",
-      "name": "",
-      "image": "",
+      "name": "AppID 325720",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325720/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325721": {
       "appid": "325721",
-      "name": "",
-      "image": "",
+      "name": "AppID 325721",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325721/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
     },
     "325722": {
       "appid": "325722",
-      "name": "",
-      "image": "",
+      "name": "AppID 325722",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325722/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
@@ -532,7 +532,7 @@
     "328860": {
       "appid": "328860",
       "name": "PAYDAY 2: Bobblehead DLC",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/328860/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/328860.json"
@@ -540,7 +540,7 @@
     "328861": {
       "appid": "328861",
       "name": "PAYDAY 2: Alienware Alpha Mask Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/328861/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/328861.json"
@@ -555,24 +555,24 @@
     },
     "330490": {
       "appid": "330490",
-      "name": "",
-      "image": "",
+      "name": "AppID 330490",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330490/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": ""
     },
     "330491": {
       "appid": "330491",
-      "name": "",
-      "image": "",
+      "name": "AppID 330491",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330491/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": ""
     },
     "331040": {
       "appid": "331040",
-      "name": "",
-      "image": "",
+      "name": "AppID 331040",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/331040/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": ""
@@ -612,15 +612,15 @@
     "338950": {
       "appid": "338950",
       "name": "PAYDAY 2: The PAYDAYCON 2015 Mask Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/338950/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/338950.json"
     },
     "338951": {
       "appid": "338951",
-      "name": "",
-      "image": "",
+      "name": "AppID 338951",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/338951/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": ""
@@ -724,7 +724,7 @@
     "375380": {
       "appid": "375380",
       "name": "PAYDAY 2: Humble Mask Pack 3",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/375380/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/375380.json"
@@ -732,7 +732,7 @@
     "375381": {
       "appid": "375381",
       "name": "PAYDAY 2: Humble Mask Pack 4",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/375381/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/375381.json"
@@ -740,7 +740,7 @@
     "375382": {
       "appid": "375382",
       "name": "PAYDAY 2: The Jack Mask Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/375382/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/375382.json"
@@ -748,7 +748,7 @@
     "375383": {
       "appid": "375383",
       "name": "PAYDAY 2: The Queen Mask Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/375383/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/375383.json"
@@ -756,7 +756,7 @@
     "375384": {
       "appid": "375384",
       "name": "PAYDAY 2: The King Mask Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/375384/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/375384.json"
@@ -764,7 +764,7 @@
     "375385": {
       "appid": "375385",
       "name": "PAYDAY 2: The Joker Mask Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/375385/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/375385.json"
@@ -795,8 +795,8 @@
     },
     "412920": {
       "appid": "412920",
-      "name": "",
-      "image": "",
+      "name": "AppID 412920",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/412920/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
@@ -804,15 +804,15 @@
     "415360": {
       "appid": "415360",
       "name": "Dying Light: Razer Nabu Outfit",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/415360/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": "239140/DLCs/415360.json"
     },
     "415370": {
       "appid": "415370",
-      "name": "",
-      "image": "",
+      "name": "AppID 415370",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/415370/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
@@ -836,7 +836,7 @@
     "435110": {
       "appid": "435110",
       "name": "Dying Light: Outfit and Livery 1",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435110/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": "239140/DLCs/435110.json"
@@ -876,7 +876,7 @@
     "436083": {
       "appid": "436083",
       "name": "Dying Light: CD-Action Anniversary Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/436083/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": "239140/DLCs/436083.json"
@@ -908,7 +908,7 @@
     "486610": {
       "appid": "486610",
       "name": "PAYDAY 2: Humble Mask Pack 5",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/486610/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/486610.json"
@@ -924,7 +924,7 @@
     "518760": {
       "appid": "518760",
       "name": "PAYDAY 2: Community Safe Reward 1",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518760/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/518760.json"
@@ -932,7 +932,7 @@
     "532810": {
       "appid": "532810",
       "name": "PAYDAY 2: Housewarming Party",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/532810/header.jpg",
       "parent": "218620",
       "store_visible": false,
       "metadata_file": "218620/DLCs/532810.json"
@@ -964,7 +964,7 @@
     "675860": {
       "appid": "675860",
       "name": "Dying Light - Harran Military Rifle",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/675860/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": "239140/DLCs/675860.json"
@@ -1083,24 +1083,24 @@
     },
     "1254580": {
       "appid": "1254580",
-      "name": "",
-      "image": "",
+      "name": "AppID 1254580",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1254580/header.jpg",
       "parent": "1238810",
       "store_visible": false,
       "metadata_file": ""
     },
     "1254581": {
       "appid": "1254581",
-      "name": "",
-      "image": "",
+      "name": "AppID 1254581",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1254581/header.jpg",
       "parent": "1238810",
       "store_visible": false,
       "metadata_file": ""
     },
     "1254582": {
       "appid": "1254582",
-      "name": "",
-      "image": "",
+      "name": "AppID 1254582",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1254582/header.jpg",
       "parent": "1238810",
       "store_visible": false,
       "metadata_file": ""
@@ -1123,8 +1123,8 @@
     },
     "1264172": {
       "appid": "1264172",
-      "name": "",
-      "image": "",
+      "name": "AppID 1264172",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1264172/header.jpg",
       "parent": "1238810",
       "store_visible": false,
       "metadata_file": ""
@@ -1147,8 +1147,8 @@
     },
     "1336220": {
       "appid": "1336220",
-      "name": "",
-      "image": "",
+      "name": "AppID 1336220",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336220/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
@@ -1156,7 +1156,7 @@
     "1336320": {
       "appid": "1336320",
       "name": "JWE 2 Pre-order Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336320/header.jpg",
       "parent": "1244460",
       "store_visible": false,
       "metadata_file": "1244460/DLCs/1336320.json"
@@ -1179,112 +1179,112 @@
     },
     "1349611": {
       "appid": "1349611",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349611",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349611/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349612": {
       "appid": "1349612",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349612",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349612/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349613": {
       "appid": "1349613",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349613",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349613/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349614": {
       "appid": "1349614",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349614",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349614/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349616": {
       "appid": "1349616",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349616",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349616/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349650": {
       "appid": "1349650",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349650",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349650/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349651": {
       "appid": "1349651",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349651",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349651/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349652": {
       "appid": "1349652",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349652",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349652/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349653": {
       "appid": "1349653",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349653",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349653/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349660": {
       "appid": "1349660",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349660",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349660/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349661": {
       "appid": "1349661",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349661",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349661/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349662": {
       "appid": "1349662",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349662",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349662/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1349663": {
       "appid": "1349663",
-      "name": "",
-      "image": "",
+      "name": "AppID 1349663",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1349663/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
     },
     "1353430": {
       "appid": "1353430",
-      "name": "",
-      "image": "",
+      "name": "AppID 1353430",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1353430/header.jpg",
       "parent": "1259970",
       "store_visible": false,
       "metadata_file": ""
@@ -1300,7 +1300,7 @@
     "1438690": {
       "appid": "1438690",
       "name": "Battlefield V Definitive Edition - The Pacific - Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1438690/header.jpg",
       "parent": "1238810",
       "store_visible": false,
       "metadata_file": "1238810/DLCs/1438690.json"
@@ -1380,7 +1380,7 @@
     "1774590": {
       "appid": "1774590",
       "name": "STAR WARS Jedi: Survivor™ - Standard Edition Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1774590/header.jpg",
       "parent": "1774580",
       "store_visible": false,
       "metadata_file": "1774580/DLCs/1774590.json"
@@ -1395,8 +1395,8 @@
     },
     "1874800": {
       "appid": "1874800",
-      "name": "",
-      "image": "",
+      "name": "AppID 1874800",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874800/header.jpg",
       "parent": "1702330",
       "store_visible": false,
       "metadata_file": ""
@@ -1475,8 +1475,8 @@
     },
     "1874820": {
       "appid": "1874820",
-      "name": "",
-      "image": "",
+      "name": "AppID 1874820",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874820/header.jpg",
       "parent": "1702330",
       "store_visible": false,
       "metadata_file": ""
@@ -1540,7 +1540,7 @@
     "2161740": {
       "appid": "2161740",
       "name": "STAR WARS Jedi: Survivor™ Deluxe Edition Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161740/header.jpg",
       "parent": "1774580",
       "store_visible": false,
       "metadata_file": "1774580/DLCs/2161740.json"
@@ -1548,7 +1548,7 @@
     "2161741": {
       "appid": "2161741",
       "name": "STAR WARS Jedi: Survivor™ Preorder Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161741/header.jpg",
       "parent": "1774580",
       "store_visible": false,
       "metadata_file": "1774580/DLCs/2161741.json"
@@ -1556,7 +1556,7 @@
     "2161742": {
       "appid": "2161742",
       "name": "STAR WARS Jedi: Survivor™ Deluxe Edition Preorder Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161742/header.jpg",
       "parent": "1774580",
       "store_visible": false,
       "metadata_file": "1774580/DLCs/2161742.json"
@@ -1580,7 +1580,7 @@
     "2334020": {
       "appid": "2334020",
       "name": "STAR WARS Jedi: Survivor™ - Press Offer Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2334020/header.jpg",
       "parent": "1774580",
       "store_visible": false,
       "metadata_file": "1774580/DLCs/2334020.json"
@@ -1636,7 +1636,7 @@
     "2975490": {
       "appid": "2975490",
       "name": "Total War: PHARAOH DYNASTIES - Blood & Sand",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2975490/header.jpg",
       "parent": "2951630",
       "store_visible": false,
       "metadata_file": "2951630/DLCs/2975490.json"
@@ -1692,7 +1692,7 @@
     "3602840": {
       "appid": "3602840",
       "name": "Call of Duty®: Modern Warfare® II - Campaign",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3602840/header.jpg",
       "parent": "3595230",
       "store_visible": false,
       "metadata_file": "3595230/DLCs/3602840.json"
@@ -1700,7 +1700,7 @@
     "3602850": {
       "appid": "3602850",
       "name": "Call of Duty®: Modern Warfare® II - Multiplayer",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3602850/header.jpg",
       "parent": "3595230",
       "store_visible": false,
       "metadata_file": "3595230/DLCs/3602850.json"
@@ -1708,7 +1708,7 @@
     "3602860": {
       "appid": "3602860",
       "name": "Call of Duty®: Modern Warfare® II - Co-op",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3602860/header.jpg",
       "parent": "3595230",
       "store_visible": false,
       "metadata_file": "3595230/DLCs/3602860.json"
@@ -1723,8 +1723,8 @@
     },
     "3607960": {
       "appid": "3607960",
-      "name": "",
-      "image": "",
+      "name": "AppID 3607960",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3607960/header.jpg",
       "parent": "239140",
       "store_visible": false,
       "metadata_file": ""
@@ -1780,7 +1780,7 @@
     "4711730": {
       "appid": "4711730",
       "name": "Mortal Shell II - Pre-order Bonus",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4711730/header.jpg",
       "parent": "2584270",
       "store_visible": false,
       "metadata_file": "2584270/DLCs/4711730.json"
