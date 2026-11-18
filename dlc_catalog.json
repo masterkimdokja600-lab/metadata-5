@@ -1,1 +1,1797 @@
-﻿{"updated_at":1794976851,"total_games":12,"total_dlcs":196,"games":{"1238810":["1254580","1254581","1254582","1264170","1264171","1264172","1438690"],"1244460":["1336320","1336321","1336322","1882470","1966010","2106800","2177430","2314000","2492640","2610980","2806860","2897800"],"1259970":["1349611","1349612","1349613","1349614","1349616","1349650","1349651","1349652","1349653","1349660","1349661","1349662","1349663","1353430"],"1702330":["1874800","1874801","1874802","1874803","1874804","1874805","1874806","1874807","1874808","1874809","1874820","2067360"],"1774580":["1774590","2161370","2161740","2161741","2161742","2334020"],"218620":["218630","247450","254260","259380","259381","264610","267380","267381","267382","271110","274160","274161","275590","284430","288900","306110","306690","311050","318720","320030","323500","328860","328861","330010","330490","330491","331040","331900","337660","337661","338950","338951","339480","344140","348090","348091","349830","351890","358150","366660","368870","374300","374301","375380","375381","375382","375383","375384","375385","384020","384021","401650","422400","433730","441600","450660","468410","486610","487210","518760","532810","545100","548420","548421","2076560"],"239140":["302100","302101","302102","302103","325710","325711","325712","325713","325714","325715","325716","325717","325720","325721","325722","325723","325724","335810","347090","412920","415360","415370","435110","435111","436080","436081","436082","436083","675860","748340","748341","798541","798542","798543","1034630","1112520","1112521","1174580","1174581","1177880","1184350","1184351","1241570","1272090","1300710","1336220","1354960","1454750","1468290","1498210","1524890","1543420","1599030","1647900","1702060","1762700","1822810","1935540","2971370","2971380","3454290","3607960"],"2584270":["4711720","4711730"],"2951630":["2975490"],"2958130":["3651190","3651200","4131660","4131670","4553980","5125950"],"2999030":["3140300","3140310","3140320","3276090","3377260"],"3595230":["3602840","3602850","3602860","3602970"]}}
+{
+  "updated_at": 1794979090,
+  "total_games": 12,
+  "total_dlcs": 196,
+  "games": {
+    "1238810": [
+      "1254580",
+      "1254581",
+      "1254582",
+      "1264170",
+      "1264171",
+      "1264172",
+      "1438690"
+    ],
+    "1244460": [
+      "1336320",
+      "1336321",
+      "1336322",
+      "1882470",
+      "1966010",
+      "2106800",
+      "2177430",
+      "2314000",
+      "2492640",
+      "2610980",
+      "2806860",
+      "2897800"
+    ],
+    "1259970": [
+      "1349611",
+      "1349612",
+      "1349613",
+      "1349614",
+      "1349616",
+      "1349650",
+      "1349651",
+      "1349652",
+      "1349653",
+      "1349660",
+      "1349661",
+      "1349662",
+      "1349663",
+      "1353430"
+    ],
+    "1702330": [
+      "1874800",
+      "1874801",
+      "1874802",
+      "1874803",
+      "1874804",
+      "1874805",
+      "1874806",
+      "1874807",
+      "1874808",
+      "1874809",
+      "1874820",
+      "2067360"
+    ],
+    "1774580": [
+      "1774590",
+      "2161370",
+      "2161740",
+      "2161741",
+      "2161742",
+      "2334020"
+    ],
+    "218620": [
+      "218630",
+      "247450",
+      "254260",
+      "259380",
+      "259381",
+      "264610",
+      "267380",
+      "267381",
+      "267382",
+      "271110",
+      "274160",
+      "274161",
+      "275590",
+      "284430",
+      "288900",
+      "306110",
+      "306690",
+      "311050",
+      "318720",
+      "320030",
+      "323500",
+      "328860",
+      "328861",
+      "330010",
+      "330490",
+      "330491",
+      "331040",
+      "331900",
+      "337660",
+      "337661",
+      "338950",
+      "338951",
+      "339480",
+      "344140",
+      "348090",
+      "348091",
+      "349830",
+      "351890",
+      "358150",
+      "366660",
+      "368870",
+      "374300",
+      "374301",
+      "375380",
+      "375381",
+      "375382",
+      "375383",
+      "375384",
+      "375385",
+      "384020",
+      "384021",
+      "401650",
+      "422400",
+      "433730",
+      "441600",
+      "450660",
+      "468410",
+      "486610",
+      "487210",
+      "518760",
+      "532810",
+      "545100",
+      "548420",
+      "548421",
+      "2076560"
+    ],
+    "239140": [
+      "302100",
+      "302101",
+      "302102",
+      "302103",
+      "325710",
+      "325711",
+      "325712",
+      "325713",
+      "325714",
+      "325715",
+      "325716",
+      "325717",
+      "325720",
+      "325721",
+      "325722",
+      "325723",
+      "325724",
+      "335810",
+      "347090",
+      "412920",
+      "415360",
+      "415370",
+      "435110",
+      "435111",
+      "436080",
+      "436081",
+      "436082",
+      "436083",
+      "675860",
+      "748340",
+      "748341",
+      "798541",
+      "798542",
+      "798543",
+      "1034630",
+      "1112520",
+      "1112521",
+      "1174580",
+      "1174581",
+      "1177880",
+      "1184350",
+      "1184351",
+      "1241570",
+      "1272090",
+      "1300710",
+      "1336220",
+      "1354960",
+      "1454750",
+      "1468290",
+      "1498210",
+      "1524890",
+      "1543420",
+      "1599030",
+      "1647900",
+      "1702060",
+      "1762700",
+      "1822810",
+      "1935540",
+      "2971370",
+      "2971380",
+      "3454290",
+      "3607960"
+    ],
+    "2584270": [
+      "4711720",
+      "4711730"
+    ],
+    "2951630": [
+      "2975490"
+    ],
+    "2958130": [
+      "3651190",
+      "3651200",
+      "4131660",
+      "4131670",
+      "4553980",
+      "5125950"
+    ],
+    "2999030": [
+      "3140300",
+      "3140310",
+      "3140320",
+      "3276090",
+      "3377260"
+    ],
+    "3595230": [
+      "3602840",
+      "3602850",
+      "3602860",
+      "3602970"
+    ]
+  },
+  "dlcs": {
+    "218630": {
+      "appid": "218630",
+      "name": "PAYDAY 2: Career Criminal Content",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/218630.json"
+    },
+    "247450": {
+      "appid": "247450",
+      "name": "PAYDAY 2: Pre-order Bonus",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/247450.json"
+    },
+    "254260": {
+      "appid": "254260",
+      "name": "PAYDAY 2: The Official Soundtrack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/254260/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/254260.json"
+    },
+    "259380": {
+      "appid": "259380",
+      "name": "PAYDAY 2: Gage Sniper Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/259380/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/259380.json"
+    },
+    "259381": {
+      "appid": "259381",
+      "name": "PAYDAY 2: Gage Mod Courier",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/259381/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/259381.json"
+    },
+    "264610": {
+      "appid": "264610",
+      "name": "PAYDAY 2: Armored Transport",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264610/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/264610.json"
+    },
+    "267380": {
+      "appid": "267380",
+      "name": "PAYDAY 2: Gage Weapon Pack #01",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/267380/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/267380.json"
+    },
+    "267381": {
+      "appid": "267381",
+      "name": "PAYDAY 2: A Merry Payday Christmas Soundtrack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/267381/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/267381.json"
+    },
+    "267382": {
+      "appid": "267382",
+      "name": "PAYDAY 2: The Shadow Raid Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/267382/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/267382.json"
+    },
+    "271110": {
+      "appid": "271110",
+      "name": "PAYDAY 2: Charlie Santa Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271110/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/271110.json"
+    },
+    "274160": {
+      "appid": "274160",
+      "name": "PAYDAY 2: The Diamond Store Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274160/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/274160.json"
+    },
+    "274161": {
+      "appid": "274161",
+      "name": "PAYDAY 2: Free Content #2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274161/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/274161.json"
+    },
+    "275590": {
+      "appid": "275590",
+      "name": "PAYDAY 2: Gage Weapon Pack #02",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275590/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/275590.json"
+    },
+    "284430": {
+      "appid": "284430",
+      "name": "PAYDAY 2: Death Wish Update",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284430/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/284430.json"
+    },
+    "288900": {
+      "appid": "288900",
+      "name": "PAYDAY 2: The Election Day Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/288900/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/288900.json"
+    },
+    "302100": {
+      "appid": "302100",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "302101": {
+      "appid": "302101",
+      "name": "Dying Light - Cuisine & Cargo",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/302101/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/302101.json"
+    },
+    "302102": {
+      "appid": "302102",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "302103": {
+      "appid": "302103",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "306110": {
+      "appid": "306110",
+      "name": "PAYDAY 2: Humble Mask Pack",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/306110.json"
+    },
+    "306690": {
+      "appid": "306690",
+      "name": "PAYDAY 2: The Big Bank Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306690/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/306690.json"
+    },
+    "311050": {
+      "appid": "311050",
+      "name": "PAYDAY 2: Gage Shotgun Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311050/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/311050.json"
+    },
+    "318720": {
+      "appid": "318720",
+      "name": "PAYDAY 2: Alienware Alpha Mauler",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/318720.json"
+    },
+    "320030": {
+      "appid": "320030",
+      "name": "PAYDAY 2: Gage Assault Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/320030/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/320030.json"
+    },
+    "323500": {
+      "appid": "323500",
+      "name": "PAYDAY 2: Hotline Miami",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323500/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/323500.json"
+    },
+    "325710": {
+      "appid": "325710",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325711": {
+      "appid": "325711",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325712": {
+      "appid": "325712",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325713": {
+      "appid": "325713",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325714": {
+      "appid": "325714",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325715": {
+      "appid": "325715",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325716": {
+      "appid": "325716",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325717": {
+      "appid": "325717",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325720": {
+      "appid": "325720",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325721": {
+      "appid": "325721",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325722": {
+      "appid": "325722",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "325723": {
+      "appid": "325723",
+      "name": "Dying Light - The Bozak Horde",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325723/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/325723.json"
+    },
+    "325724": {
+      "appid": "325724",
+      "name": "Dying Light - The Following",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325724/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/325724.json"
+    },
+    "328860": {
+      "appid": "328860",
+      "name": "PAYDAY 2: Bobblehead DLC",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/328860.json"
+    },
+    "328861": {
+      "appid": "328861",
+      "name": "PAYDAY 2: Alienware Alpha Mask Pack",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/328861.json"
+    },
+    "330010": {
+      "appid": "330010",
+      "name": "PAYDAY 2: John Wick",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330010/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/330010.json"
+    },
+    "330490": {
+      "appid": "330490",
+      "name": "",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "330491": {
+      "appid": "330491",
+      "name": "",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "331040": {
+      "appid": "331040",
+      "name": "",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "331900": {
+      "appid": "331900",
+      "name": "PAYDAY 2: Gage Historical Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/331900/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/331900.json"
+    },
+    "335810": {
+      "appid": "335810",
+      "name": "Dying Light Season Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/335810/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/335810.json"
+    },
+    "337660": {
+      "appid": "337660",
+      "name": "PAYDAY 2: The Diamond Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337660/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/337660.json"
+    },
+    "337661": {
+      "appid": "337661",
+      "name": "PAYDAY 2: Clover Character Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337661/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/337661.json"
+    },
+    "338950": {
+      "appid": "338950",
+      "name": "PAYDAY 2: The PAYDAYCON 2015 Mask Pack",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/338950.json"
+    },
+    "338951": {
+      "appid": "338951",
+      "name": "",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "339480": {
+      "appid": "339480",
+      "name": "PAYDAY 2: The Bomb Heists",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339480/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/339480.json"
+    },
+    "344140": {
+      "appid": "344140",
+      "name": "PAYDAY 2: Dragan Character Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/344140/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/344140.json"
+    },
+    "347090": {
+      "appid": "347090",
+      "name": "Dying Light Ultimate Survivor Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/347090/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/347090.json"
+    },
+    "348090": {
+      "appid": "348090",
+      "name": "PAYDAY 2: The OVERKILL Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/348090/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/348090.json"
+    },
+    "348091": {
+      "appid": "348091",
+      "name": "PAYDAY 2: The COMPLETELY OVERKILL Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/348091/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/348091.json"
+    },
+    "349830": {
+      "appid": "349830",
+      "name": "PAYDAY 2: The Butcher's Western Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/349830/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/349830.json"
+    },
+    "351890": {
+      "appid": "351890",
+      "name": "PAYDAY 2: The Butcher's AK/CAR Mod Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/351890/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/351890.json"
+    },
+    "358150": {
+      "appid": "358150",
+      "name": "PAYDAY 2: The Butcher's BBQ Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/358150/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/358150.json"
+    },
+    "366660": {
+      "appid": "366660",
+      "name": "PAYDAY 2: The Alesso Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/366660/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/366660.json"
+    },
+    "368870": {
+      "appid": "368870",
+      "name": "PAYDAY 2: The B-Sides Soundtrack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368870/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/368870.json"
+    },
+    "374300": {
+      "appid": "374300",
+      "name": "PAYDAY 2: The Golden Grin Casino Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374300/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/374300.json"
+    },
+    "374301": {
+      "appid": "374301",
+      "name": "PAYDAY 2: Sokol Character Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374301/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/374301.json"
+    },
+    "375380": {
+      "appid": "375380",
+      "name": "PAYDAY 2: Humble Mask Pack 3",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/375380.json"
+    },
+    "375381": {
+      "appid": "375381",
+      "name": "PAYDAY 2: Humble Mask Pack 4",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/375381.json"
+    },
+    "375382": {
+      "appid": "375382",
+      "name": "PAYDAY 2: The Jack Mask Pack",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/375382.json"
+    },
+    "375383": {
+      "appid": "375383",
+      "name": "PAYDAY 2: The Queen Mask Pack",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/375383.json"
+    },
+    "375384": {
+      "appid": "375384",
+      "name": "PAYDAY 2: The King Mask Pack",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/375384.json"
+    },
+    "375385": {
+      "appid": "375385",
+      "name": "PAYDAY 2: The Joker Mask Pack",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/375385.json"
+    },
+    "384020": {
+      "appid": "384020",
+      "name": "PAYDAY 2: Yakuza Character Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/384020/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/384020.json"
+    },
+    "384021": {
+      "appid": "384021",
+      "name": "PAYDAY 2: Gage Ninja Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/384021/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/384021.json"
+    },
+    "401650": {
+      "appid": "401650",
+      "name": "PAYDAY 2: Gage Chivalry Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/401650/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/401650.json"
+    },
+    "412920": {
+      "appid": "412920",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "415360": {
+      "appid": "415360",
+      "name": "Dying Light: Razer Nabu Outfit",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/415360.json"
+    },
+    "415370": {
+      "appid": "415370",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "422400": {
+      "appid": "422400",
+      "name": "PAYDAY 2: The Point Break Heists",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/422400/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/422400.json"
+    },
+    "433730": {
+      "appid": "433730",
+      "name": "PAYDAY 2: The Goat Simulator Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/433730/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/433730.json"
+    },
+    "435110": {
+      "appid": "435110",
+      "name": "Dying Light: Outfit and Livery 1",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/435110.json"
+    },
+    "435111": {
+      "appid": "435111",
+      "name": "Dying Light- Crash Test Skin Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435111/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/435111.json"
+    },
+    "436080": {
+      "appid": "436080",
+      "name": "Dying Light- Harran Ranger Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/436080/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/436080.json"
+    },
+    "436081": {
+      "appid": "436081",
+      "name": "Dying Light- Gun Psycho Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/436081/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/436081.json"
+    },
+    "436082": {
+      "appid": "436082",
+      "name": "Dying Light- Volatile Hunter Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/436082/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/436082.json"
+    },
+    "436083": {
+      "appid": "436083",
+      "name": "Dying Light: CD-Action Anniversary Pack",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/436083.json"
+    },
+    "441600": {
+      "appid": "441600",
+      "name": "PAYDAY 2: The Wolf Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/441600/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/441600.json"
+    },
+    "450660": {
+      "appid": "450660",
+      "name": "PAYDAY 2: Biker Character Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/450660/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/450660.json"
+    },
+    "468410": {
+      "appid": "468410",
+      "name": "PAYDAY 2: Sydney Character Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/468410/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/468410.json"
+    },
+    "486610": {
+      "appid": "486610",
+      "name": "PAYDAY 2: Humble Mask Pack 5",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/486610.json"
+    },
+    "487210": {
+      "appid": "487210",
+      "name": "PAYDAY 2: The Biker Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/487210/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/487210.json"
+    },
+    "518760": {
+      "appid": "518760",
+      "name": "PAYDAY 2: Community Safe Reward 1",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/518760.json"
+    },
+    "532810": {
+      "appid": "532810",
+      "name": "PAYDAY 2: Housewarming Party",
+      "image": "",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/532810.json"
+    },
+    "545100": {
+      "appid": "545100",
+      "name": "PAYDAY 2: John Wick Weapon Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/545100/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/545100.json"
+    },
+    "548420": {
+      "appid": "548420",
+      "name": "PAYDAY 2: Gage Spec Ops Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/548420/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/548420.json"
+    },
+    "548421": {
+      "appid": "548421",
+      "name": "PAYDAY 2: Scarface Heist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/548421/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/548421.json"
+    },
+    "675860": {
+      "appid": "675860",
+      "name": "Dying Light - Harran Military Rifle",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/675860.json"
+    },
+    "748340": {
+      "appid": "748340",
+      "name": "Dying Light - White Death Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/748340/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/748340.json"
+    },
+    "748341": {
+      "appid": "748341",
+      "name": "Dying Light - Vintage Gunslinger Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/748341/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/748341.json"
+    },
+    "798541": {
+      "appid": "798541",
+      "name": "Dying Light 3D Printer Models",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798541/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/798541.json"
+    },
+    "798542": {
+      "appid": "798542",
+      "name": "Dying Light Collector’s Artbook",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798542/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/798542.json"
+    },
+    "798543": {
+      "appid": "798543",
+      "name": "Dying Light Wallpaper Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798543/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/798543.json"
+    },
+    "1034630": {
+      "appid": "1034630",
+      "name": "Dying Light Book",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1034630/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1034630.json"
+    },
+    "1112520": {
+      "appid": "1112520",
+      "name": "Dying Light - Rais Elite Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1112520/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1112520.json"
+    },
+    "1112521": {
+      "appid": "1112521",
+      "name": "Dying Light - Godfather Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1112521/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1112521.json"
+    },
+    "1174580": {
+      "appid": "1174580",
+      "name": "Dying Light - Harran Inmate Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174580/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1174580.json"
+    },
+    "1174581": {
+      "appid": "1174581",
+      "name": "Dying Light - Left 4 Dead 2 Weapon Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174581/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1174581.json"
+    },
+    "1177880": {
+      "appid": "1177880",
+      "name": "Dying Light - Retrowave Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1177880/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1177880.json"
+    },
+    "1184350": {
+      "appid": "1184350",
+      "name": "Dying Light - SHU Warrior Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1184350/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1184350.json"
+    },
+    "1184351": {
+      "appid": "1184351",
+      "name": "Dying Light - Chivalry Weapon Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1184351/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1184351.json"
+    },
+    "1241570": {
+      "appid": "1241570",
+      "name": "Dying Light - 5th Anniversary Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1241570/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1241570.json"
+    },
+    "1254580": {
+      "appid": "1254580",
+      "name": "",
+      "image": "",
+      "parent": "1238810",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1254581": {
+      "appid": "1254581",
+      "name": "",
+      "image": "",
+      "parent": "1238810",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1254582": {
+      "appid": "1254582",
+      "name": "",
+      "image": "",
+      "parent": "1238810",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1264170": {
+      "appid": "1264170",
+      "name": "Battlefield V - Premium Starter Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1264170/header.jpg",
+      "parent": "1238810",
+      "store_visible": false,
+      "metadata_file": "1238810/DLCs/1264170.json"
+    },
+    "1264171": {
+      "appid": "1264171",
+      "name": "Battlefield V - Starter Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1264171/header.jpg",
+      "parent": "1238810",
+      "store_visible": false,
+      "metadata_file": "1238810/DLCs/1264171.json"
+    },
+    "1264172": {
+      "appid": "1264172",
+      "name": "",
+      "image": "",
+      "parent": "1238810",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1272090": {
+      "appid": "1272090",
+      "name": "Dying Light - Unturned Weapon Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272090/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1272090.json"
+    },
+    "1300710": {
+      "appid": "1300710",
+      "name": "Dying Light - Hellraid",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1300710/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1300710.json"
+    },
+    "1336220": {
+      "appid": "1336220",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1336320": {
+      "appid": "1336320",
+      "name": "JWE 2 Pre-order Content",
+      "image": "",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/1336320.json"
+    },
+    "1336321": {
+      "appid": "1336321",
+      "name": "Jurassic World Evolution 2: Deluxe Upgrade Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336321/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/1336321.json"
+    },
+    "1336322": {
+      "appid": "1336322",
+      "name": "Jurassic World Evolution 2: Early Cretaceous Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336322/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/1336322.json"
+    },
+    "1349611": {
+      "appid": "1349611",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349612": {
+      "appid": "1349612",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349613": {
+      "appid": "1349613",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349614": {
+      "appid": "1349614",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349616": {
+      "appid": "1349616",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349650": {
+      "appid": "1349650",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349651": {
+      "appid": "1349651",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349652": {
+      "appid": "1349652",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349653": {
+      "appid": "1349653",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349660": {
+      "appid": "1349660",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349661": {
+      "appid": "1349661",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349662": {
+      "appid": "1349662",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1349663": {
+      "appid": "1349663",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1353430": {
+      "appid": "1353430",
+      "name": "",
+      "image": "",
+      "parent": "1259970",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1354960": {
+      "appid": "1354960",
+      "name": "Dying Light - Volkan Combat Armor Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1354960/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1354960.json"
+    },
+    "1438690": {
+      "appid": "1438690",
+      "name": "Battlefield V Definitive Edition - The Pacific - Key",
+      "image": "",
+      "parent": "1238810",
+      "store_visible": false,
+      "metadata_file": "1238810/DLCs/1438690.json"
+    },
+    "1454750": {
+      "appid": "1454750",
+      "name": "Dying Light - L4D2 Bill & Gnome Chompski Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1454750/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1454750.json"
+    },
+    "1468290": {
+      "appid": "1468290",
+      "name": "Dying Light - Classified Operation Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1468290/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1468290.json"
+    },
+    "1498210": {
+      "appid": "1498210",
+      "name": "Dying Light - Viking: Raider of Harran Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1498210/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1498210.json"
+    },
+    "1524890": {
+      "appid": "1524890",
+      "name": "Dying Light - Ox Warrior Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1524890/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1524890.json"
+    },
+    "1543420": {
+      "appid": "1543420",
+      "name": "Dying Light - Harran Tactical Unit Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1543420/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1543420.json"
+    },
+    "1599030": {
+      "appid": "1599030",
+      "name": "Dying Light - Rust Weapon Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1599030/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1599030.json"
+    },
+    "1647900": {
+      "appid": "1647900",
+      "name": "Dying Light - Savvy Gamer Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1647900/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1647900.json"
+    },
+    "1702060": {
+      "appid": "1702060",
+      "name": "Dying Light - Astronaut Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1702060/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1702060.json"
+    },
+    "1762700": {
+      "appid": "1762700",
+      "name": "Dying Light - Van Crane Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1762700/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1762700.json"
+    },
+    "1774590": {
+      "appid": "1774590",
+      "name": "STAR WARS Jedi: Survivor™ - Standard Edition Key",
+      "image": "",
+      "parent": "1774580",
+      "store_visible": false,
+      "metadata_file": "1774580/DLCs/1774590.json"
+    },
+    "1822810": {
+      "appid": "1822810",
+      "name": "Dying Light - Snow Ops Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1822810/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1822810.json"
+    },
+    "1874800": {
+      "appid": "1874800",
+      "name": "",
+      "image": "",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1874801": {
+      "appid": "1874801",
+      "name": "Rune Factory 5 - The Elf and the Hidden Royal Lineage Swimsuit Set + New Ranger Care Package Item Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874801/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874801.json"
+    },
+    "1874802": {
+      "appid": "1874802",
+      "name": "Rune Factory 5 - The Marionette and the Glorious Horse Swimsuit Set + New Ranger Care Package Item Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874802/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874802.json"
+    },
+    "1874803": {
+      "appid": "1874803",
+      "name": "Rune Factory 5 - The Young Proprietress and the Dwarf Swimsuit Set + New Ranger Care Package Item Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874803/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874803.json"
+    },
+    "1874804": {
+      "appid": "1874804",
+      "name": "Rune Factory 5 - Famous Butlers Swimsuit Set + New Ranger Care Package Item Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874804/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874804.json"
+    },
+    "1874805": {
+      "appid": "1874805",
+      "name": "Rune Factory 5 - The Resplendent Butterfly and the Priest Swimsuit Set + New Ranger Care Package Item Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874805/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874805.json"
+    },
+    "1874806": {
+      "appid": "1874806",
+      "name": "Rune Factory 5 - The Holy Knight and the Bibliophile Swimsuit Set + New Ranger Care Package Item Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874806/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874806.json"
+    },
+    "1874807": {
+      "appid": "1874807",
+      "name": "Rune Factory 5 - Rune Factory Outfits: Raguna and Mist",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874807/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874807.json"
+    },
+    "1874808": {
+      "appid": "1874808",
+      "name": "Rune Factory 5 - Rune Factory 2 Outfits: Kyle and Mana",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874808/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874808.json"
+    },
+    "1874809": {
+      "appid": "1874809",
+      "name": "Rune Factory 5 - Rune Factory 3 Outfits: Micah and Shara",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874809/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/1874809.json"
+    },
+    "1874820": {
+      "appid": "1874820",
+      "name": "",
+      "image": "",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1882470": {
+      "appid": "1882470",
+      "name": "Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1882470/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/1882470.json"
+    },
+    "1935540": {
+      "appid": "1935540",
+      "name": "Dying Light - Dieselpunk Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1935540/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/1935540.json"
+    },
+    "1966010": {
+      "appid": "1966010",
+      "name": "Jurassic World Evolution 2: Dominion Biosyn Expansion",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1966010/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/1966010.json"
+    },
+    "2067360": {
+      "appid": "2067360",
+      "name": "Rune Factory 5 - Rune Factory Series Outfit Set",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2067360/header.jpg",
+      "parent": "1702330",
+      "store_visible": false,
+      "metadata_file": "1702330/DLCs/2067360.json"
+    },
+    "2076560": {
+      "appid": "2076560",
+      "name": "PAYDAY 2: Tijuana Music Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2076560/header.jpg",
+      "parent": "218620",
+      "store_visible": false,
+      "metadata_file": "218620/DLCs/2076560.json"
+    },
+    "2106800": {
+      "appid": "2106800",
+      "name": "Jurassic World Evolution 2: Late Cretaceous Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2106800/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/2106800.json"
+    },
+    "2161370": {
+      "appid": "2161370",
+      "name": "STAR WARS Jedi: Survivor™ Deluxe Upgrade",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161370/header.jpg",
+      "parent": "1774580",
+      "store_visible": false,
+      "metadata_file": "1774580/DLCs/2161370.json"
+    },
+    "2161740": {
+      "appid": "2161740",
+      "name": "STAR WARS Jedi: Survivor™ Deluxe Edition Key",
+      "image": "",
+      "parent": "1774580",
+      "store_visible": false,
+      "metadata_file": "1774580/DLCs/2161740.json"
+    },
+    "2161741": {
+      "appid": "2161741",
+      "name": "STAR WARS Jedi: Survivor™ Preorder Key",
+      "image": "",
+      "parent": "1774580",
+      "store_visible": false,
+      "metadata_file": "1774580/DLCs/2161741.json"
+    },
+    "2161742": {
+      "appid": "2161742",
+      "name": "STAR WARS Jedi: Survivor™ Deluxe Edition Preorder Key",
+      "image": "",
+      "parent": "1774580",
+      "store_visible": false,
+      "metadata_file": "1774580/DLCs/2161742.json"
+    },
+    "2177430": {
+      "appid": "2177430",
+      "name": "Jurassic World Evolution 2: Dominion Malta Expansion",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2177430/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/2177430.json"
+    },
+    "2314000": {
+      "appid": "2314000",
+      "name": "Jurassic World Evolution 2: Feathered Species Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2314000/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/2314000.json"
+    },
+    "2334020": {
+      "appid": "2334020",
+      "name": "STAR WARS Jedi: Survivor™ - Press Offer Key",
+      "image": "",
+      "parent": "1774580",
+      "store_visible": false,
+      "metadata_file": "1774580/DLCs/2334020.json"
+    },
+    "2492640": {
+      "appid": "2492640",
+      "name": "Jurassic World Evolution 2: Prehistoric Marine Species Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2492640/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/2492640.json"
+    },
+    "2610980": {
+      "appid": "2610980",
+      "name": "Jurassic World Evolution 2: Cretaceous Predator Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610980/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/2610980.json"
+    },
+    "2806860": {
+      "appid": "2806860",
+      "name": "Jurassic World Evolution 2: Secret Species Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2806860/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/2806860.json"
+    },
+    "2897800": {
+      "appid": "2897800",
+      "name": "Jurassic World Evolution 2: Park Managers' Collection Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2897800/header.jpg",
+      "parent": "1244460",
+      "store_visible": false,
+      "metadata_file": "1244460/DLCs/2897800.json"
+    },
+    "2971370": {
+      "appid": "2971370",
+      "name": "Dying Light - Standard To Enhanced Upgrade",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2971370/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/2971370.json"
+    },
+    "2971380": {
+      "appid": "2971380",
+      "name": "Dying Light - Standard To Definitive Upgrade",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2971380/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/2971380.json"
+    },
+    "2975490": {
+      "appid": "2975490",
+      "name": "Total War: PHARAOH DYNASTIES - Blood & Sand",
+      "image": "",
+      "parent": "2951630",
+      "store_visible": false,
+      "metadata_file": "2951630/DLCs/2975490.json"
+    },
+    "3140300": {
+      "appid": "3140300",
+      "name": "Exploding Kittens® 2: Kitchen Chaos Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3140300/header.jpg",
+      "parent": "2999030",
+      "store_visible": false,
+      "metadata_file": "2999030/DLCs/3140300.json"
+    },
+    "3140310": {
+      "appid": "3140310",
+      "name": "Exploding Kittens® 2: Beach Day Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3140310/header.jpg",
+      "parent": "2999030",
+      "store_visible": false,
+      "metadata_file": "2999030/DLCs/3140310.json"
+    },
+    "3140320": {
+      "appid": "3140320",
+      "name": "Exploding Kittens® 2: Explosive Expansions Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3140320/ffce07dbdeb19a96ef5461b17ae9d409ffae320d/header.jpg",
+      "parent": "2999030",
+      "store_visible": false,
+      "metadata_file": "2999030/DLCs/3140320.json"
+    },
+    "3276090": {
+      "appid": "3276090",
+      "name": "Exploding Kittens® 2: Mystic Mayhem Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3276090/header.jpg",
+      "parent": "2999030",
+      "store_visible": false,
+      "metadata_file": "2999030/DLCs/3276090.json"
+    },
+    "3377260": {
+      "appid": "3377260",
+      "name": "Exploding Kittens® 2: Santa Claws Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3377260/header.jpg",
+      "parent": "2999030",
+      "store_visible": false,
+      "metadata_file": "2999030/DLCs/3377260.json"
+    },
+    "3454290": {
+      "appid": "3454290",
+      "name": "Dying Light - 10th Anniversary Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3454290/header.jpg",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": "239140/DLCs/3454290.json"
+    },
+    "3602840": {
+      "appid": "3602840",
+      "name": "Call of Duty®: Modern Warfare® II - Campaign",
+      "image": "",
+      "parent": "3595230",
+      "store_visible": false,
+      "metadata_file": "3595230/DLCs/3602840.json"
+    },
+    "3602850": {
+      "appid": "3602850",
+      "name": "Call of Duty®: Modern Warfare® II - Multiplayer",
+      "image": "",
+      "parent": "3595230",
+      "store_visible": false,
+      "metadata_file": "3595230/DLCs/3602850.json"
+    },
+    "3602860": {
+      "appid": "3602860",
+      "name": "Call of Duty®: Modern Warfare® II - Co-op",
+      "image": "",
+      "parent": "3595230",
+      "store_visible": false,
+      "metadata_file": "3595230/DLCs/3602860.json"
+    },
+    "3602970": {
+      "appid": "3602970",
+      "name": "Call of Duty®: Modern Warfare® II - DMZ Beta",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3602970/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg",
+      "parent": "3595230",
+      "store_visible": false,
+      "metadata_file": "3595230/DLCs/3602970.json"
+    },
+    "3607960": {
+      "appid": "3607960",
+      "name": "",
+      "image": "",
+      "parent": "239140",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "3651190": {
+      "appid": "3651190",
+      "name": "Jurassic World Evolution 3: Badlands Set",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3651190/cbf92cea0b7ac0144b9176e65b9897b9b7f6fa79/header.jpg",
+      "parent": "2958130",
+      "store_visible": false,
+      "metadata_file": "2958130/DLCs/3651190.json"
+    },
+    "3651200": {
+      "appid": "3651200",
+      "name": "Jurassic World Evolution 3: Deluxe Upgrade Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3651200/a56be2948195b43c7253d6836947237c4b6fd278/header.jpg",
+      "parent": "2958130",
+      "store_visible": false,
+      "metadata_file": "2958130/DLCs/3651200.json"
+    },
+    "4131660": {
+      "appid": "4131660",
+      "name": "Jurassic World Evolution 3: Wetlands",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4131660/7b09cab6f1e9f78675ba2644e84232455dcee328/header.jpg",
+      "parent": "2958130",
+      "store_visible": false,
+      "metadata_file": "2958130/DLCs/4131660.json"
+    },
+    "4131670": {
+      "appid": "4131670",
+      "name": "Jurassic World Evolution 3: Rebirth Expansion",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4131670/e05e7dbc18877df9048e4c295ca2a329928e95e5/header.jpg",
+      "parent": "2958130",
+      "store_visible": false,
+      "metadata_file": "2958130/DLCs/4131670.json"
+    },
+    "4553980": {
+      "appid": "4553980",
+      "name": "Jurassic World Evolution 3: Crocodilia Coast",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553980/ca7aa903bc6d524d64cb6689535ed696af2c2c5a/header.jpg",
+      "parent": "2958130",
+      "store_visible": false,
+      "metadata_file": "2958130/DLCs/4553980.json"
+    },
+    "4711720": {
+      "appid": "4711720",
+      "name": "Mortal Shell II: Devout Edition Upgrade",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4711720/b533b7d0ac83619e12b1c773cf852c2b23e05e6c/header.jpg",
+      "parent": "2584270",
+      "store_visible": false,
+      "metadata_file": "2584270/DLCs/4711720.json"
+    },
+    "4711730": {
+      "appid": "4711730",
+      "name": "Mortal Shell II - Pre-order Bonus",
+      "image": "",
+      "parent": "2584270",
+      "store_visible": false,
+      "metadata_file": "2584270/DLCs/4711730.json"
+    },
+    "5125950": {
+      "appid": "5125950",
+      "name": "Jurassic World Evolution 3: Prehistoric East",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5125950/3e7270022100efd2f0885288dd0548e3ad18a18f/header.jpg",
+      "parent": "2958130",
+      "store_visible": false,
+      "metadata_file": "2958130/DLCs/5125950.json"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_change_number": 39361289,
+  "_missing_token": false,
+  "_sha": "41a17659808e9696988742d02d582259e13f90f9",
+  "_size": 381,
+  "appid": "3602840",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3602840",
+    "name": "Call of Duty®: Modern Warfare® II - Campaign",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3595230",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3595230",
+    "mustownapptopurchase": "3595230"
+  }
+}

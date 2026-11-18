@@ -1,0 +1,23 @@
+{
+  "_change_number": 39361289,
+  "_missing_token": false,
+  "_sha": "9acdafee15abf9346fbddda8b9f713420af919f7",
+  "_size": 384,
+  "appid": "3602850",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3602850",
+    "name": "Call of Duty®: Modern Warfare® II - Multiplayer",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3595230",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3595230",
+    "mustownapptopurchase": "3595230"
+  }
+}

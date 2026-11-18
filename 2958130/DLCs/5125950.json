@@ -1,0 +1,154 @@
+{
+  "_change_number": 40964858,
+  "_missing_token": false,
+  "_sha": "295bd4ced50825221abe702fe6f9ba8757b24950",
+  "_size": 3086,
+  "appid": "5125950",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Frontier Developments",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Frontier Developments",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_61": "1",
+      "category_62": "1",
+      "category_65": "1",
+      "category_66": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_74": "1",
+      "category_79": "1",
+      "category_80": "1",
+      "category_82": "1"
+    },
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "gameid": "5125950",
+    "genres": {
+      "0": "28",
+      "1": "2"
+    },
+    "header_image": {
+      "english": "3e7270022100efd2f0885288dd0548e3ad18a18f/header.jpg"
+    },
+    "name": "Jurassic World Evolution 3: Prehistoric East",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2958130",
+    "primary_genre": "28",
+    "releasestate": "released",
+    "review_percentage": "48",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1790686913",
+    "store_asset_mtime": "1790763626",
+    "store_screenshot": "bb44b1d454ce30a06ecbe5e1b02c3a7ce5aa137a/ss_bb44b1d454ce30a06ecbe5e1b02c3a7ce5aa137a.jpg",
+    "store_tags": {
+      "0": "599",
+      "1": "5160",
+      "10": "4166",
+      "11": "3942",
+      "12": "1662",
+      "13": "7332",
+      "14": "4182",
+      "15": "1643",
+      "16": "1695",
+      "17": "3859",
+      "18": "4667",
+      "19": "7926",
+      "2": "9",
+      "3": "3810",
+      "4": "4328",
+      "5": "5230",
+      "6": "12472",
+      "7": "19",
+      "8": "8945",
+      "9": "4695"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Frontier Developments",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2958130",
+    "homepage": "https://www.jurassicworldevolution.com",
+    "mustownapptopurchase": "2958130",
+    "publisher": "Frontier Developments"
+  }
+}

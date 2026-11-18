@@ -1,0 +1,38 @@
+{
+  "_change_number": 32936622,
+  "_missing_token": false,
+  "_sha": "719bce6509b4182c32425723d6f08e58b33aa8a2",
+  "_size": 595,
+  "appid": "2975490",
+  "common": {
+    "gameid": "2975490",
+    "name": "Total War: PHARAOH DYNASTIES - Blood & Sand",
+    "osarch": "",
+    "osextended": "macosapplesilicon",
+    "oslist": "windows,macos",
+    "parent": "2951630",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "9",
+      "10": "1708",
+      "11": "1678",
+      "12": "1775",
+      "13": "3859",
+      "14": "4182",
+      "2": "1670",
+      "3": "4364",
+      "4": "1676",
+      "5": "1741",
+      "6": "4166",
+      "7": "4845",
+      "8": "3987",
+      "9": "6948"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2951630"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_change_number": 39134846,
+  "_missing_token": true,
+  "_sha": "8d756a44c6dbd52fbfe6296c842eeb8252891f3f",
+  "_size": 340,
+  "appid": "436083",
+  "common": {
+    "associations": {},
+    "gameid": "436083",
+    "name": "Dying Light: CD-Action Anniversary Pack ",
+    "osarch": "64",
+    "oslist": "windows,macos,linux",
+    "parent": "239140",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "_lastChecked": 1794974752,
+  "_history": [],
+  "_change_number": 38192738,
+  "_missing_token": false,
+  "_sha": "f89584756210213fc926cf6634e9b25af9b1e8a0",
+  "_size": 1539,
+  "appid": "4711730",
+  "common": {
+    "gameid": "4711730",
+    "name": "Mortal Shell II - Pre-order Bonus",
+    "name_localized": {
+      "brazilian": "Bônus de pré-venda de Mortal Shell II",
+      "french": "Mortal Shell II - Bonus de précommande",
+      "german": "Mortal Shell II – Vorbesteller-Bonus",
+      "italian": "Bonus preordine Mortal Shell II",
+      "japanese": "『Mortal Shell II』- の予約特典",
+      "koreana": "Mortal Shell II - 예약 주문 특전",
+      "latam": "Mortal Shell II - Bonificación por reserva",
+      "polish": "Mortal Shell II – premia za zamówienie w przedsprzedaży",
+      "portuguese": "Bónus de pré-reserva Mortal Shell II",
+      "russian": "Бонус за предзаказ Mortal Shell II",
+      "schinese": "《致命躯壳 II》预购奖励",
+      "spanish": "Bonificación por la reserva de Mortal Shell II",
+      "tchinese": "《Mortal Shell II》預購獎勵",
+      "ukrainian": "Бонус за передзамовлення Mortal Shell II"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2584270",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "29482",
+      "1": "4604",
+      "10": "1667",
+      "11": "21",
+      "12": "3834",
+      "13": "1646",
+      "14": "1697",
+      "15": "4166",
+      "16": "4172",
+      "17": "3854",
+      "18": "4345",
+      "19": "9541",
+      "2": "4667",
+      "3": "4231",
+      "4": "4026",
+      "5": "4182",
+      "6": "19",
+      "7": "1695",
+      "8": "4342",
+      "9": "122"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2584270",
+    "mustownapptopurchase": "2584270"
+  }
+}
