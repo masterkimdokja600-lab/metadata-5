@@ -1,7 +1,7 @@
 {
-  "updated_at": 1794993600,
-  "total_games": 12,
-  "total_dlcs": 196,
+  "updated_at": 1795021630,
+  "total_games": 13,
+  "total_dlcs": 243,
   "games": {
     "1238810": [
       "1254580",
@@ -222,6 +222,55 @@
       "3602850",
       "3602860",
       "3602970"
+    ],
+    "601050": [
+      "797720",
+      "797730",
+      "797740",
+      "797750",
+      "797760",
+      "797770",
+      "797780",
+      "797790",
+      "797800",
+      "797810",
+      "797820",
+      "797830",
+      "797840",
+      "797850",
+      "797860",
+      "797870",
+      "797880",
+      "797890",
+      "797900",
+      "797910",
+      "797920",
+      "797930",
+      "797940",
+      "797950",
+      "797960",
+      "797970",
+      "797980",
+      "797990",
+      "798000",
+      "798010",
+      "798020",
+      "798030",
+      "798050",
+      "798060",
+      "798070",
+      "798080",
+      "798090",
+      "798100",
+      "799680",
+      "799690",
+      "799700",
+      "801580",
+      "1001060",
+      "1063920",
+      "1063921",
+      "1063922",
+      "1063923"
     ]
   },
   "dlcs": {
@@ -985,6 +1034,310 @@
       "store_visible": false,
       "metadata_file": "239140/DLCs/748341.json"
     },
+    "797720": {
+      "appid": "797720",
+      "name": "AppID 797720",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797720/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "797730": {
+      "appid": "797730",
+      "name": "Additional Eren Costume: Bad Boy Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797730/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797730.json"
+    },
+    "797740": {
+      "appid": "797740",
+      "name": "Additional Mikasa Costume: Chinese Dress Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797740/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797740.json"
+    },
+    "797750": {
+      "appid": "797750",
+      "name": "Additional Levi Costume: Leather Jacket Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797750/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797750.json"
+    },
+    "797760": {
+      "appid": "797760",
+      "name": "Additional Costume Set: New Year's Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797760/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797760.json"
+    },
+    "797770": {
+      "appid": "797770",
+      "name": "Additional Costume Set: Festival Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797770/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797770.json"
+    },
+    "797780": {
+      "appid": "797780",
+      "name": "Additional Costume Set: Halloween Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797780/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797780.json"
+    },
+    "797790": {
+      "appid": "797790",
+      "name": "Additional Costume Set: Christmas Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797790/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797790.json"
+    },
+    "797800": {
+      "appid": "797800",
+      "name": "Additional Mikasa Costume: Festival Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797800/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797800.json"
+    },
+    "797810": {
+      "appid": "797810",
+      "name": "Additional Armin Costume: Kiddie Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797810/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797810.json"
+    },
+    "797820": {
+      "appid": "797820",
+      "name": "Additional Jean Costume: Clown Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797820/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797820.json"
+    },
+    "797830": {
+      "appid": "797830",
+      "name": "Additional Conny Costume: Kung Fu Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797830/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797830.json"
+    },
+    "797840": {
+      "appid": "797840",
+      "name": "Additional Christa Costume: Cutesy Goth Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797840/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797840.json"
+    },
+    "797850": {
+      "appid": "797850",
+      "name": "Additional Sasha Costume: Cheerleader Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797850/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797850.json"
+    },
+    "797860": {
+      "appid": "797860",
+      "name": "Additional Episode: A Sudden Rain",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797860/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797860.json"
+    },
+    "797870": {
+      "appid": "797870",
+      "name": "Additional Episode: Goddess Salvation",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797870/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797870.json"
+    },
+    "797880": {
+      "appid": "797880",
+      "name": "Additional Episode: A Cornered Rat",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797880/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797880.json"
+    },
+    "797890": {
+      "appid": "797890",
+      "name": "Additional Reiner Costume: American Football Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797890/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797890.json"
+    },
+    "797900": {
+      "appid": "797900",
+      "name": "Additional Bertholdt Costume: Pajama Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797900/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797900.json"
+    },
+    "797910": {
+      "appid": "797910",
+      "name": "Additional Annie Costume: Motorcycle Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797910/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797910.json"
+    },
+    "797920": {
+      "appid": "797920",
+      "name": "Additional Ymir Costume: Pirate Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797920/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797920.json"
+    },
+    "797930": {
+      "appid": "797930",
+      "name": "Additional Episode: Biological Research Scout Mission",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797930/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797930.json"
+    },
+    "797940": {
+      "appid": "797940",
+      "name": "Additional Episode: White Out",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797940/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797940.json"
+    },
+    "797950": {
+      "appid": "797950",
+      "name": "Additional Episode: Proof of Expertise",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797950/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797950.json"
+    },
+    "797960": {
+      "appid": "797960",
+      "name": "Additional Hange Costume: Scientist Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797960/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797960.json"
+    },
+    "797970": {
+      "appid": "797970",
+      "name": "Additional Erwin Costume: Knight Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797970/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797970.json"
+    },
+    "797980": {
+      "appid": "797980",
+      "name": "Additional Mikasa Costume: Ninja Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797980/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797980.json"
+    },
+    "797990": {
+      "appid": "797990",
+      "name": "Additional Christa Costume: Maid Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/797990/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/797990.json"
+    },
+    "798000": {
+      "appid": "798000",
+      "name": "Additional Episode: Discouragement and the Leaning Tower",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798000/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798000.json"
+    },
+    "798010": {
+      "appid": "798010",
+      "name": "Additional Episode: Singular Target",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798010/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798010.json"
+    },
+    "798020": {
+      "appid": "798020",
+      "name": "Additional Episode: Attack IQ Championship",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798020/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798020.json"
+    },
+    "798030": {
+      "appid": "798030",
+      "name": "Additional Sasha Costume: Sports Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798030/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798030.json"
+    },
+    "798050": {
+      "appid": "798050",
+      "name": "Additional Annie Costume: Pop Star Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798050/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798050.json"
+    },
+    "798060": {
+      "appid": "798060",
+      "name": "Additional Ymir Costume: Shrine Maiden Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798060/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798060.json"
+    },
+    "798070": {
+      "appid": "798070",
+      "name": "Additional Hange Costume: Detective Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798070/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798070.json"
+    },
+    "798080": {
+      "appid": "798080",
+      "name": "Additional Episode: A Titan Worth a Thousand",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798080/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798080.json"
+    },
+    "798090": {
+      "appid": "798090",
+      "name": "Additional Episode: Skill Demonstration",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798090/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798090.json"
+    },
+    "798100": {
+      "appid": "798100",
+      "name": "Additional Episode: Second Victory",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/798100/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/798100.json"
+    },
     "798541": {
       "appid": "798541",
       "name": "Dying Light 3D Printer Models",
@@ -1009,6 +1362,46 @@
       "store_visible": false,
       "metadata_file": "239140/DLCs/798543.json"
     },
+    "799680": {
+      "appid": "799680",
+      "name": "Eren & Levi Plain clothes Outfit Early Release",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/799680/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/799680.json"
+    },
+    "799690": {
+      "appid": "799690",
+      "name": "Mikasa & Armin Plain clothes Outfit Early Release",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/799690/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/799690.json"
+    },
+    "799700": {
+      "appid": "799700",
+      "name": "SEASON PASS: Additional Costumes: 20-Piece Set",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/799700/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/799700.json"
+    },
+    "801580": {
+      "appid": "801580",
+      "name": "SEASON PASS: Additional Episodes: 12-Episode Set",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/801580/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/801580.json"
+    },
+    "1001060": {
+      "appid": "1001060",
+      "name": "Attack on Titan 2: Final Battle Upgrade Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1001060/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/1001060.json"
+    },
     "1034630": {
       "appid": "1034630",
       "name": "Dying Light Book",
@@ -1016,6 +1409,38 @@
       "parent": "239140",
       "store_visible": false,
       "metadata_file": "239140/DLCs/1034630.json"
+    },
+    "1063920": {
+      "appid": "1063920",
+      "name": "Attack on Titan 2 - Additional costume for Christa \"Queen Historia\" Costume",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1063920/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/1063920.json"
+    },
+    "1063921": {
+      "appid": "1063921",
+      "name": "Attack on Titan 2 - Additional costume for Kenny \"Coat (Young Male)\" Costume",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1063921/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/1063921.json"
+    },
+    "1063922": {
+      "appid": "1063922",
+      "name": "Attack on Titan 2 - Additional costume for Levi \"Plain Clothes (Underground City)\" Costume",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1063922/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/1063922.json"
+    },
+    "1063923": {
+      "appid": "1063923",
+      "name": "Attack on Titan 2 - Additional costume for Mikasa \"One-piece Dress\" Costume",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1063923/header.jpg",
+      "parent": "601050",
+      "store_visible": false,
+      "metadata_file": "601050/DLCs/1063923.json"
     },
     "1112520": {
       "appid": "1112520",

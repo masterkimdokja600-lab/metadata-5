@@ -3227,5 +3227,123 @@
     ],
     "json_rev": 1,
     "added_ts": 1794921257
+  },
+  {
+    "id": "game-601050",
+    "appid": 601050,
+    "name": "Attack on Titan 2 - A.O.T.2",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "publisher": "KOEI TECMO GAMES CO., LTD.",
+    "installdir": "AoT2",
+    "launch_exes": [
+      "Launcher.exe"
+    ],
+    "launch_exe": "Launcher.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "4403644",
+    "has_metadata": true,
+    "depot_base": 601051,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/601050/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/601050/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "4403644",
+        "branch": "public Update Details (19/11/2019)",
+        "label": "public Update Details (19/11/2019) - Build 4403644 (10/17/2019)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "228990",
+          "601051",
+          "797730",
+          "797740",
+          "797750",
+          "797760",
+          "797770",
+          "797780",
+          "797790",
+          "797800",
+          "797810",
+          "797820",
+          "797830",
+          "797840",
+          "797850",
+          "797860",
+          "797870",
+          "797880",
+          "797890",
+          "797900",
+          "797910",
+          "797920",
+          "797930",
+          "797940",
+          "797950",
+          "797960",
+          "797970",
+          "797980",
+          "797990",
+          "798000",
+          "798010",
+          "798020",
+          "798030",
+          "798050",
+          "798060",
+          "798070",
+          "798080",
+          "798090",
+          "798100",
+          "799680",
+          "799690",
+          "1001060",
+          "1063920",
+          "1063921",
+          "1063922",
+          "1063923"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 601052,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795021626
   }
 ]
