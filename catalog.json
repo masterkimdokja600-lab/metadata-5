@@ -1374,6 +1374,74 @@
     "added_ts": 1794993599
   },
   {
+    "id": "game-2141730",
+    "appid": 2141730,
+    "name": "Backrooms: Escape Together",
+    "developer": "Triiodide Studios",
+    "publisher": "Triiodide Studios",
+    "installdir": "Backrooms_Escape_Together",
+    "launch_exes": [
+      "BETGame.exe"
+    ],
+    "launch_exe": "BETGame.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25287569",
+    "has_metadata": true,
+    "depot_base": 2141731,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2141730/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2141730/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25287569",
+        "branch": "public",
+        "label": "Public - Build 25287569 (09/14/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2141731",
+          "2141732"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795064765
+  },
+  {
     "id": "game-218620",
     "appid": 218620,
     "name": "PAYDAY 2",
