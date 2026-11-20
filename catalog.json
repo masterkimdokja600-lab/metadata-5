@@ -1091,6 +1091,76 @@
     "added_ts": 1794665970
   },
   {
+    "id": "game-1566390",
+    "appid": 1566390,
+    "name": "Seed of the Dead: Sweet Home",
+    "developer": "TeamKRAMA",
+    "publisher": "Eroge Japan",
+    "installdir": "SoD_SH",
+    "launch_exes": [
+      "SoD_SH.exe"
+    ],
+    "launch_exe": "SoD_SH.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "13461347",
+    "has_metadata": true,
+    "depot_base": 1566391,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1566390/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1566390/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "13461347",
+        "branch": "public Patch note Ver2.103",
+        "label": "public Patch note Ver2.103 - Build 13461347 (02/15/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228989",
+          "228990",
+          "229007",
+          "1566391",
+          "2452270"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795144832
+  },
+  {
     "id": "game-1702330",
     "appid": 1702330,
     "name": "Rune Factory 5",
