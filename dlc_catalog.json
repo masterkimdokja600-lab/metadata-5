@@ -1,7 +1,7 @@
 {
-  "updated_at": 1795145404,
-  "total_games": 14,
-  "total_dlcs": 244,
+  "updated_at": 1795326126,
+  "total_games": 15,
+  "total_dlcs": 303,
   "games": {
     "1238810": [
       "1254580",
@@ -274,6 +274,67 @@
       "1063921",
       "1063922",
       "1063923"
+    ],
+    "750920": [
+      "849160",
+      "849161",
+      "849162",
+      "849163",
+      "849164",
+      "849165",
+      "849166",
+      "849167",
+      "849168",
+      "849170",
+      "849171",
+      "849176",
+      "849177",
+      "849178",
+      "849179",
+      "849180",
+      "849181",
+      "849186",
+      "849187",
+      "849188",
+      "849200",
+      "849260",
+      "849261",
+      "849262",
+      "849300",
+      "849301",
+      "849302",
+      "849303",
+      "849304",
+      "849305",
+      "849306",
+      "849307",
+      "849308",
+      "849309",
+      "849310",
+      "849311",
+      "890030",
+      "890031",
+      "890032",
+      "905320",
+      "930440",
+      "943200",
+      "1058360",
+      "1109290",
+      "792460",
+      "829771",
+      "849172",
+      "849173",
+      "849174",
+      "849175",
+      "849182",
+      "849183",
+      "849184",
+      "849185",
+      "849189",
+      "849190",
+      "849191",
+      "849192",
+      "849193"
     ]
   },
   "dlcs": {
@@ -1037,6 +1098,15 @@
       "store_visible": false,
       "metadata_file": "239140/DLCs/748341.json"
     },
+    "792460": {
+      "appid": "792460",
+      "name": "AppID 792460",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/792460.json",
+      "metadata_status": "parent_appinfo"
+    },
     "797720": {
       "appid": "797720",
       "name": "AppID 797720",
@@ -1397,6 +1467,510 @@
       "store_visible": false,
       "metadata_file": "601050/DLCs/801580.json"
     },
+    "829771": {
+      "appid": "829771",
+      "name": "AppID 829771",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/829771.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849160": {
+      "appid": "849160",
+      "name": "Shadow of the Tomb Raider - Skills Booster Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849160/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849160.json",
+      "metadata_status": "appinfo"
+    },
+    "849161": {
+      "appid": "849161",
+      "name": "Shadow of the Tomb Raider - Chromosphere Resource Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849161/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849161.json",
+      "metadata_status": "appinfo"
+    },
+    "849162": {
+      "appid": "849162",
+      "name": "Shadow of the Tomb Raider - Baily’s Beads Resource Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849162/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849162.json",
+      "metadata_status": "appinfo"
+    },
+    "849163": {
+      "appid": "849163",
+      "name": "Shadow of the Tomb Raider - Corona Resource Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849163/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849163.json",
+      "metadata_status": "appinfo"
+    },
+    "849164": {
+      "appid": "849164",
+      "name": "Shadow of the Tomb Raider - Orange Shadow Band Resource Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849164/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849164.json",
+      "metadata_status": "appinfo"
+    },
+    "849165": {
+      "appid": "849165",
+      "name": "Shadow of the Tomb Raider - Original Game Soundtrack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849165/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849165.json",
+      "metadata_status": "appinfo"
+    },
+    "849166": {
+      "appid": "849166",
+      "name": "Shadow of the Tomb Raider - Robes of Puka Huk",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849166/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849166.json",
+      "metadata_status": "appinfo"
+    },
+    "849167": {
+      "appid": "849167",
+      "name": "Shadow of the Tomb Raider - Tactical Adventurer (Black) Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849167/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849167.json",
+      "metadata_status": "appinfo"
+    },
+    "849168": {
+      "appid": "849168",
+      "name": "Shadow of the Tomb Raider - Explorer Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849168/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849168.json",
+      "metadata_status": "appinfo"
+    },
+    "849170": {
+      "appid": "849170",
+      "name": "Shadow of the Tomb Raider - Outfit: Brocken",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849170.json",
+      "metadata_status": "appinfo"
+    },
+    "849171": {
+      "appid": "849171",
+      "name": "Shadow of the Tomb Raider - Sinchi Chiqa Battle Dress",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849171.json",
+      "metadata_status": "appinfo"
+    },
+    "849172": {
+      "appid": "849172",
+      "name": "AppID 849172",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849172.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849173": {
+      "appid": "849173",
+      "name": "AppID 849173",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849173.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849174": {
+      "appid": "849174",
+      "name": "AppID 849174",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849174.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849175": {
+      "appid": "849175",
+      "name": "AppID 849175",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849175.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849176": {
+      "appid": "849176",
+      "name": "Shadow of the Tomb Raider - Tunic of the Exiled Fox",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849176/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849176.json",
+      "metadata_status": "appinfo"
+    },
+    "849177": {
+      "appid": "849177",
+      "name": "Shadow of the Tomb Raider - Puka Huk’s Bow",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849177/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849177.json",
+      "metadata_status": "appinfo"
+    },
+    "849178": {
+      "appid": "849178",
+      "name": "Shadow of the Tomb Raider - K&H Kap Pistol",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849178/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849178.json",
+      "metadata_status": "appinfo"
+    },
+    "849179": {
+      "appid": "849179",
+      "name": "Shadow of the Tomb Raider - Sedgewick 707 Shotgun",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849179/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849179.json",
+      "metadata_status": "appinfo"
+    },
+    "849180": {
+      "appid": "849180",
+      "name": "Shadow of the Tomb Raider - Weapon: Umbrage 3-80",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849180.json",
+      "metadata_status": "appinfo"
+    },
+    "849181": {
+      "appid": "849181",
+      "name": "Shadow of the Tomb Raider - Oathtaker's Bow",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849181.json",
+      "metadata_status": "appinfo"
+    },
+    "849182": {
+      "appid": "849182",
+      "name": "AppID 849182",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849182.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849183": {
+      "appid": "849183",
+      "name": "AppID 849183",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849183.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849184": {
+      "appid": "849184",
+      "name": "AppID 849184",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849184.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849185": {
+      "appid": "849185",
+      "name": "AppID 849185",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849185.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849186": {
+      "appid": "849186",
+      "name": "Shadow of the Tomb Raider - Exiled Fox’s Bow",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849186/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849186.json",
+      "metadata_status": "appinfo"
+    },
+    "849187": {
+      "appid": "849187",
+      "name": "Shadow of the Tomb Raider - The Forge Content",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849187.json",
+      "metadata_status": "appinfo"
+    },
+    "849188": {
+      "appid": "849188",
+      "name": "Shadow of the Tomb Raider - The Pillar Content",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849188.json",
+      "metadata_status": "appinfo"
+    },
+    "849189": {
+      "appid": "849189",
+      "name": "AppID 849189",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849189.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849190": {
+      "appid": "849190",
+      "name": "AppID 849190",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849190.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849191": {
+      "appid": "849191",
+      "name": "AppID 849191",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849191.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849192": {
+      "appid": "849192",
+      "name": "AppID 849192",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849192.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849193": {
+      "appid": "849193",
+      "name": "AppID 849193",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849193.json",
+      "metadata_status": "parent_appinfo"
+    },
+    "849200": {
+      "appid": "849200",
+      "name": "Shadow of the Tomb Raider - Official Wallpaper",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849200/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849200.json",
+      "metadata_status": "appinfo"
+    },
+    "849260": {
+      "appid": "849260",
+      "name": "Shadow of the Tomb Raider - Deluxe Extras",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849260/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849260.json",
+      "metadata_status": "appinfo"
+    },
+    "849261": {
+      "appid": "849261",
+      "name": "Shadow of the Tomb Raider - Croft Edition Extras",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849261/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849261.json",
+      "metadata_status": "appinfo"
+    },
+    "849262": {
+      "appid": "849262",
+      "name": "Shadow of the Tomb Raider - Season Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849262/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849262.json",
+      "metadata_status": "appinfo"
+    },
+    "849300": {
+      "appid": "849300",
+      "name": "Shadow of the Tomb Raider - Spectre Gear",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849300/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849300.json",
+      "metadata_status": "appinfo"
+    },
+    "849301": {
+      "appid": "849301",
+      "name": "Shadow of the Tomb Raider - Golden Eagle Gear",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849301/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849301.json",
+      "metadata_status": "appinfo"
+    },
+    "849302": {
+      "appid": "849302",
+      "name": "Shadow of the Tomb Raider - Fear Incarnate Gear",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849302/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849302.json",
+      "metadata_status": "appinfo"
+    },
+    "849303": {
+      "appid": "849303",
+      "name": "Shadow of the Tomb Raider - Classic Trinity Gear",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849303/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849303.json",
+      "metadata_status": "appinfo"
+    },
+    "849304": {
+      "appid": "849304",
+      "name": "Shadow of the Tomb Raider - Myth Hunter Gear",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849304/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849304.json",
+      "metadata_status": "appinfo"
+    },
+    "849305": {
+      "appid": "849305",
+      "name": "Shadow of the Tomb Raider - Force of Chaos Gear",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849305/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849305.json",
+      "metadata_status": "appinfo"
+    },
+    "849306": {
+      "appid": "849306",
+      "name": "Shadow of the Tomb Raider - The Forge",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849306/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849306.json",
+      "metadata_status": "appinfo"
+    },
+    "849307": {
+      "appid": "849307",
+      "name": "Shadow of the Tomb Raider - The Pillar",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849307/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849307.json",
+      "metadata_status": "appinfo"
+    },
+    "849308": {
+      "appid": "849308",
+      "name": "Shadow of the Tomb Raider - The Nightmare",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849308/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849308.json",
+      "metadata_status": "appinfo"
+    },
+    "849309": {
+      "appid": "849309",
+      "name": "Shadow of the Tomb Raider - The Price of Survival",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849309/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849309.json",
+      "metadata_status": "appinfo"
+    },
+    "849310": {
+      "appid": "849310",
+      "name": "Shadow of the Tomb Raider - The Serpent's Heart",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849310/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849310.json",
+      "metadata_status": "appinfo"
+    },
+    "849311": {
+      "appid": "849311",
+      "name": "Shadow of the Tomb Raider - The Grand Caiman",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849311/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/849311.json",
+      "metadata_status": "appinfo"
+    },
+    "890030": {
+      "appid": "890030",
+      "name": "Shadow of the Tomb Raider - Black Shadow Band Resource Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/890030/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/890030.json",
+      "metadata_status": "appinfo"
+    },
+    "890031": {
+      "appid": "890031",
+      "name": "Shadow of the Tomb Raider - Red Shadow Band Resource Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/890031/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/890031.json",
+      "metadata_status": "appinfo"
+    },
+    "890032": {
+      "appid": "890032",
+      "name": "Shadow of the Tomb Raider - Yellow Shadow Band Resource Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/890032/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/890032.json",
+      "metadata_status": "appinfo"
+    },
+    "905320": {
+      "appid": "905320",
+      "name": "Shadow of the Tomb Raider - White Shadow Band Resource Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/905320/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/905320.json",
+      "metadata_status": "appinfo"
+    },
+    "930440": {
+      "appid": "930440",
+      "name": "Early Access Deluxe/Croft Edition Owner",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/930440.json",
+      "metadata_status": "appinfo"
+    },
+    "943200": {
+      "appid": "943200",
+      "name": "Shadow of the Tomb Raider - The Path Home",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/943200/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/943200.json",
+      "metadata_status": "appinfo"
+    },
     "1001060": {
       "appid": "1001060",
       "name": "Attack on Titan 2: Final Battle Upgrade Pack",
@@ -1412,6 +1986,15 @@
       "parent": "239140",
       "store_visible": false,
       "metadata_file": "239140/DLCs/1034630.json"
+    },
+    "1058360": {
+      "appid": "1058360",
+      "name": "Shadow of the Tomb Raider - Sworn Defender",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1058360/header.jpg",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/1058360.json",
+      "metadata_status": "appinfo"
     },
     "1063920": {
       "appid": "1063920",
@@ -1444,6 +2027,15 @@
       "parent": "601050",
       "store_visible": false,
       "metadata_file": "601050/DLCs/1063923.json"
+    },
+    "1109290": {
+      "appid": "1109290",
+      "name": "Shadow of the Tomb Raider - Definitive Edition Content",
+      "image": "",
+      "parent": "750920",
+      "store_visible": false,
+      "metadata_file": "750920/DLCs/1109290.json",
+      "metadata_status": "appinfo"
     },
     "1112520": {
       "appid": "1112520",
@@ -2228,6 +2820,16 @@
       "parent": "2958130",
       "store_visible": false,
       "metadata_file": "2958130/DLCs/5125950.json"
+    }
+  },
+  "coverage": {
+    "750920": {
+      "discovered": 59,
+      "stored": 59,
+      "full_appinfo": 44,
+      "steam_store": 0,
+      "parent_appinfo": 15,
+      "missing_files": []
     }
   }
 }

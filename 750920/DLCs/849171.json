@@ -1,0 +1,29 @@
+{
+  "_change_number": 33275967,
+  "_missing_token": true,
+  "_sha": "38cd7d24adde1a4a5b69c9b687da8cffc2ad5a0e",
+  "_size": 691,
+  "appid": "849171",
+  "common": {
+    "associations": {},
+    "clienticon": "dbf5b707d3d54d0a79db7fce10ab09032c59f71d",
+    "clienttga": "080adeb180ddd52822cac4a0962209e78bc6c0a8",
+    "gameid": "849171",
+    "icon": "97f54f495b2e1b60a3527d4d4142dd1d58e96472",
+    "logo": "ca59ead3b2141fb541a4e645ed82cd7067bfb1cf",
+    "logo_small": "ca59ead3b2141fb541a4e645ed82cd7067bfb1cf_thumb",
+    "name": "Shadow of the Tomb Raider - Sinchi Chiqa Battle Dress",
+    "osarch": "",
+    "osextended": "macos64",
+    "oslist": "windows,macos,linux",
+    "parent": "750920",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

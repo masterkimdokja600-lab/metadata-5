@@ -1,0 +1,24 @@
+{
+  "_change_number": 39321285,
+  "_missing_token": true,
+  "_sha": "25f2777583bfb0472df121f0e0b75c9d9f5b9e08",
+  "_size": 406,
+  "appid": "1109290",
+  "common": {
+    "associations": {},
+    "gameid": "1109290",
+    "name": "Shadow of the Tomb Raider - Definitive Edition Content",
+    "osarch": "",
+    "osextended": "macos64",
+    "oslist": "windows,macos,linux",
+    "parent": "750920",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

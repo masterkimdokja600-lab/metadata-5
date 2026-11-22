@@ -3485,5 +3485,497 @@
     ],
     "json_rev": 1,
     "added_ts": 1795021626
+  },
+  {
+    "id": "game-750920",
+    "appid": 750920,
+    "name": "Shadow of the Tomb Raider",
+    "developer": "Eidos-Montréal",
+    "publisher": "Crystal Dynamics",
+    "installdir": "Shadow of the Tomb Raider",
+    "launch_exes": [
+      "SOTTR.exe",
+      "TR11_final.exe",
+      "TR11_release.exe",
+      "TR11.exe",
+      "ShadowOfTheTombRaider.sh",
+      "Shadow of the Tomb Raider.app"
+    ],
+    "launch_exe": "SOTTR.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "11668867",
+    "has_metadata": true,
+    "depot_base": 750921,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/750920/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/750920/f3740f6adb527d3cca6137a7ffad6d535756a5e6/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "11668867",
+        "branch": "public",
+        "label": "Public - Build 11668867 (07/11/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "228990",
+          "750921",
+          "750922",
+          "750924",
+          "750925",
+          "750926",
+          "750927",
+          "750928",
+          "750929",
+          "792461",
+          "792462",
+          "792463",
+          "792464",
+          "792465",
+          "792466",
+          "792467",
+          "792468",
+          "792469",
+          "829772",
+          "829774",
+          "829775",
+          "829776",
+          "829777",
+          "849160",
+          "849165",
+          "849166",
+          "849167",
+          "849168",
+          "849170",
+          "849171",
+          "849176",
+          "849177",
+          "849178",
+          "849179",
+          "849180",
+          "849181",
+          "849186",
+          "849187",
+          "849188",
+          "849194",
+          "849195",
+          "849196",
+          "849197",
+          "849198",
+          "849199",
+          "849200",
+          "849201",
+          "849202",
+          "849203",
+          "849204",
+          "849205",
+          "849206",
+          "849207",
+          "849208",
+          "849209",
+          "849263",
+          "849264",
+          "849268",
+          "849302",
+          "849303",
+          "849304",
+          "849305",
+          "849308",
+          "849309",
+          "849310",
+          "849311",
+          "849316",
+          "849317",
+          "849318",
+          "849319",
+          "890032",
+          "890033",
+          "890034",
+          "890039",
+          "905321",
+          "905322",
+          "905323",
+          "905324",
+          "905325",
+          "905326",
+          "905327",
+          "905328",
+          "905329",
+          "930445",
+          "930446",
+          "930447",
+          "943200",
+          "943204",
+          "991330",
+          "991331",
+          "991332",
+          "991333",
+          "991336",
+          "991337",
+          "991339",
+          "991340",
+          "991343",
+          "991344",
+          "991345",
+          "991346",
+          "991347",
+          "991348",
+          "991349",
+          "991350",
+          "991351",
+          "991352",
+          "991353",
+          "991354",
+          "991355",
+          "991356",
+          "991357",
+          "991358",
+          "991359",
+          "991363",
+          "991368",
+          "991369",
+          "991370",
+          "991371",
+          "991372",
+          "991373",
+          "991378",
+          "991379",
+          "991380",
+          "991381",
+          "991382",
+          "991383",
+          "991384",
+          "991385",
+          "991386",
+          "991387",
+          "991392",
+          "991393",
+          "991394",
+          "991400",
+          "991406",
+          "991407",
+          "991408",
+          "991409",
+          "991412",
+          "991413",
+          "991415",
+          "991416",
+          "991417",
+          "991418",
+          "991419",
+          "991420",
+          "1058360",
+          "1109290"
+        ],
+        "languages": [
+          {
+            "id": 829772,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 750925,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 750926,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 750927,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 750928,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 750929,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 792461,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 792462,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 792463,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 792464,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 829774,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 829775,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 829776,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 849206,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 829772,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 750925,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 750926,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 750927,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 750928,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 750929,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 792461,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 792462,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 792463,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 792464,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 829774,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 829775,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 829776,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 849206,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 829772,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 750925,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 750926,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 750927,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 750928,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 750929,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 792461,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 792462,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 792463,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 792464,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 829774,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 829775,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 829776,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 849206,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795326114
   }
 ]

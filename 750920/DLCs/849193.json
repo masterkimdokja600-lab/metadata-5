@@ -1,0 +1,164 @@
+{
+  "appid": "849193",
+  "parent": "750920",
+  "name": "",
+  "parent_depots": {
+    "849193": {
+      "config": {
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "dlcappid": "849193",
+      "manifests": {
+        "build298": {
+          "download": "352",
+          "gid": "1128581794087607715",
+          "size": "283"
+        },
+        "build449": {
+          "download": "352",
+          "gid": "1128581794087607715",
+          "size": "283"
+        },
+        "build453": {
+          "download": "352",
+          "gid": "1128581794087607715",
+          "size": "283"
+        },
+        "build_241": {
+          "download": "0",
+          "gid": "949288841238991023",
+          "size": "0"
+        },
+        "build_243": {
+          "download": "0",
+          "gid": "949288841238991023",
+          "size": "0"
+        },
+        "build_247": {
+          "download": "0",
+          "gid": "949288841238991023",
+          "size": "0"
+        },
+        "build_260": {
+          "download": "0",
+          "gid": "949288841238991023",
+          "size": "0"
+        },
+        "build_270": {
+          "download": "0",
+          "gid": "949288841238991023",
+          "size": "0"
+        },
+        "build_279": {
+          "download": "0",
+          "gid": "949288841238991023",
+          "size": "0"
+        },
+        "build_280": {
+          "download": "0",
+          "gid": "949288841238991023",
+          "size": "0"
+        },
+        "build_286": {
+          "download": "0",
+          "gid": "949288841238991023",
+          "size": "0"
+        },
+        "build_292": {
+          "download": "352",
+          "gid": "1128581794087607715",
+          "size": "283"
+        },
+        "build_294": {
+          "download": "352",
+          "gid": "1128581794087607715",
+          "size": "283"
+        },
+        "build_296": {
+          "download": "352",
+          "gid": "1128581794087607715",
+          "size": "283"
+        },
+        "public": {
+          "download": "352",
+          "gid": "1128581794087607715",
+          "size": "283"
+        }
+      }
+    },
+    "943203": {
+      "config": {
+        "osarch": "64",
+        "oslist": "macos"
+      },
+      "dlcappid": "849193",
+      "manifests": {
+        "build298": {
+          "download": "352",
+          "gid": "124394227764737010",
+          "size": "283"
+        },
+        "build449": {
+          "download": "352",
+          "gid": "5786031841453739369",
+          "size": "283"
+        },
+        "build453": {
+          "download": "352",
+          "gid": "124394227764737010",
+          "size": "283"
+        },
+        "build_296": {
+          "download": "352",
+          "gid": "124394227764737010",
+          "size": "283"
+        },
+        "public": {
+          "download": "352",
+          "gid": "124394227764737010",
+          "size": "283"
+        }
+      }
+    },
+    "991399": {
+      "config": {
+        "osarch": "64",
+        "oslist": "linux"
+      },
+      "dlcappid": "849193",
+      "manifests": {
+        "build298": {
+          "download": "352",
+          "gid": "95108470356520901",
+          "size": "283"
+        },
+        "build449": {
+          "download": "352",
+          "gid": "7504430361190623949",
+          "size": "283"
+        },
+        "build453": {
+          "download": "352",
+          "gid": "95108470356520901",
+          "size": "283"
+        },
+        "build_296": {
+          "download": "352",
+          "gid": "95108470356520901",
+          "size": "283"
+        },
+        "public": {
+          "download": "352",
+          "gid": "95108470356520901",
+          "size": "283"
+        }
+      }
+    }
+  },
+  "_metadata": {
+    "kind": "parent_appinfo",
+    "full_appinfo": false,
+    "source": "750920/750920.json"
+  }
+}
