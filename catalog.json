@@ -75,6 +75,76 @@
     "added_ts": 1794891342
   },
   {
+    "id": "game-1154030",
+    "appid": 1154030,
+    "name": "Titan Quest II",
+    "developer": "Grimlore Games",
+    "publisher": "THQ Nordic",
+    "installdir": "Titan Quest II",
+    "launch_exes": [
+      "TQ2.exe",
+      "TQ2_Development.exe"
+    ],
+    "launch_exe": "TQ2.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26462862",
+    "has_metadata": true,
+    "depot_base": 1154031,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1154030/98931374cb9f8e1f6fcbdfa676bb61103856e0f3/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1154030/535b26b3bfd9837ea35470c2f14c89e85651cda0/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26462862",
+        "branch": "public Early Access Feature Update Hero Monsters and Buff Shrines - Hotfix 1",
+        "label": "public Early Access Feature Update Hero Monsters and Buff Shrines - Hotfix 1 - Build 26462862 (11/05/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1154031",
+          "1154032",
+          "1154033"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795500265
+  },
+  {
     "id": "game-1238810",
     "appid": 1238810,
     "name": "Battlefield™ V",
