@@ -3439,6 +3439,73 @@
     "added_ts": 1794921257
   },
   {
+    "id": "game-4883590",
+    "appid": 4883590,
+    "name": "iRacing® Studios NASCAR 26",
+    "developer": "iRacing.com Motorsport Simulations, LLC",
+    "publisher": "iRacing.com Motorsport Simulations, LLC",
+    "installdir": "NASCAR 26",
+    "launch_exes": [
+      "NASCAR26_Steam.exe"
+    ],
+    "launch_exe": "NASCAR26_Steam.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26790457",
+    "has_metadata": true,
+    "depot_base": 4883591,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4883590/a90350c58f0254e3b39fddfc43048d5a55d0c9b8/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4883590/036d900938c21941236b54a8e189643ce34f0b4e/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26790457",
+        "branch": "public Patch Notes - November 19",
+        "label": "public Patch Notes - November 19 - Build 26790457 (11/19/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "4883591"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795753928
+  },
+  {
     "id": "game-601050",
     "appid": 601050,
     "name": "Attack on Titan 2 - A.O.T.2",

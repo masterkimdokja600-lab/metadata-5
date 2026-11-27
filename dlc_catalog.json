@@ -1,7 +1,7 @@
 {
-  "updated_at": 1795326126,
-  "total_games": 15,
-  "total_dlcs": 303,
+  "updated_at": 1795753931,
+  "total_games": 16,
+  "total_dlcs": 308,
   "games": {
     "1238810": [
       "1254580",
@@ -225,6 +225,13 @@
       "3602850",
       "3602860",
       "3602970"
+    ],
+    "4883590": [
+      "4899500",
+      "4899510",
+      "4899530",
+      "4899550",
+      "4908330"
     ],
     "601050": [
       "797720",
@@ -2813,6 +2820,51 @@
       "store_visible": false,
       "metadata_file": "2584270/DLCs/4711730.json"
     },
+    "4899500": {
+      "appid": "4899500",
+      "name": "NASCAR 26 - September Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899500/96b46a79ccaa7fd611c1b9ff7939b65d8a2a9db8/header.jpg",
+      "parent": "4883590",
+      "store_visible": false,
+      "metadata_file": "4883590/DLCs/4899500.json",
+      "metadata_status": "appinfo"
+    },
+    "4899510": {
+      "appid": "4899510",
+      "name": "NASCAR 26 - October Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899510/3f7304deee4f632f384b9329dd1e46a84d8d1860/header.jpg",
+      "parent": "4883590",
+      "store_visible": false,
+      "metadata_file": "4883590/DLCs/4899510.json",
+      "metadata_status": "appinfo"
+    },
+    "4899530": {
+      "appid": "4899530",
+      "name": "NASCAR 26 - November Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899530/25bbffe37c51bb1d07c55ad87065fec0e2a262f9/header.jpg",
+      "parent": "4883590",
+      "store_visible": false,
+      "metadata_file": "4883590/DLCs/4899530.json",
+      "metadata_status": "appinfo"
+    },
+    "4899550": {
+      "appid": "4899550",
+      "name": "NASCAR 26 - Season Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899550/5017caeb9b99a796ce547771eb2ef789ffa43ef1/header.jpg",
+      "parent": "4883590",
+      "store_visible": false,
+      "metadata_file": "4883590/DLCs/4899550.json",
+      "metadata_status": "appinfo"
+    },
+    "4908330": {
+      "appid": "4908330",
+      "name": "NASCAR 26 - Exclusive Pre-Order DLC",
+      "image": "",
+      "parent": "4883590",
+      "store_visible": false,
+      "metadata_file": "4883590/DLCs/4908330.json",
+      "metadata_status": "appinfo"
+    },
     "5125950": {
       "appid": "5125950",
       "name": "Jurassic World Evolution 3: Prehistoric East",
@@ -2829,6 +2881,14 @@
       "full_appinfo": 44,
       "steam_store": 0,
       "parent_appinfo": 15,
+      "missing_files": []
+    },
+    "4883590": {
+      "discovered": 5,
+      "stored": 5,
+      "full_appinfo": 5,
+      "steam_store": 0,
+      "parent_appinfo": 0,
       "missing_files": []
     }
   }

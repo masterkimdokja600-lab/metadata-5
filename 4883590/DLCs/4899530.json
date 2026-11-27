@@ -1,0 +1,96 @@
+{
+  "_change_number": 41344397,
+  "_missing_token": false,
+  "_sha": "04c5f99cf2285bd98651fefbb0f3c0030af5ae5b",
+  "_size": 2018,
+  "appid": "4899530",
+  "common": {
+    "aicontenttype": "1",
+    "associations": {
+      "0": {
+        "name": "iRacing.com Motorsport Simulations, LLC",
+        "type": "developer"
+      },
+      "1": {
+        "name": "iRacing.com Motorsport Simulations, LLC",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_36": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_57": "1",
+      "category_60": "1",
+      "category_62": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_74": "1",
+      "category_78": "1"
+    },
+    "controller_support": "partial",
+    "gameid": "4899530",
+    "genres": {
+      "0": "9",
+      "1": "28",
+      "2": "18"
+    },
+    "header_image": {
+      "english": "25bbffe37c51bb1d07c55ad87065fec0e2a262f9/header.jpg"
+    },
+    "name": "NASCAR 26 - November Pack",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4883590",
+    "primary_genre": "9",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "fa80537bb832f785543231808aac47983ae1c3b6/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1795154622",
+    "store_asset_mtime": "1794341734",
+    "store_screenshot": "b574b3fa41393e6e507bbf91cd6c6626481deb04/ss_b574b3fa41393e6e507bbf91cd6c6626481deb04.jpg",
+    "store_tags": {
+      "0": "699",
+      "1": "599",
+      "10": "1775",
+      "11": "4182",
+      "12": "4191",
+      "13": "1697",
+      "14": "7926",
+      "2": "701",
+      "3": "1644",
+      "4": "1100687",
+      "5": "4175",
+      "6": "1773",
+      "7": "3859",
+      "8": "12472",
+      "9": "3968"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "iRacing.com Motorsport Simulations, LLC",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "4883590",
+    "homepage": "https://nascar26.com/",
+    "mustownapptopurchase": "4883590",
+    "publisher": "iRacing.com Motorsport Simulations, LLC"
+  }
+}
