@@ -1,0 +1,192 @@
+{
+  "_change_number": 41544228,
+  "_missing_token": false,
+  "_sha": "19fb97c6bf773029602692d106f205fb75da2747",
+  "_size": 3835,
+  "appid": "4997660",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Saber Interactive",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Focus Entertainment",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Warhammer",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_64": "1",
+      "category_65": "1",
+      "category_66": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "gameid": "4997660",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "3"
+    },
+    "header_image": {
+      "english": "a53b75c3bce78940b6ca11f5e8ee68db584b1f3c/header.jpg"
+    },
+    "name": "Warhammer 40,000: Space Marine 2 - Deathwatch Champion Pack",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2183900",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "51",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "1f957c8b95d14b5395544cf91ce5a0e849f9ba47/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1795686709",
+    "store_asset_mtime": "1794493987",
+    "store_screenshot": "819236ea8cf2da8ec94f7bb24ee7c34aa547d248/ss_819236ea8cf2da8ec94f7bb24ee7c34aa547d248.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "1685",
+      "10": "4684",
+      "11": "1678",
+      "12": "1755",
+      "13": "4191",
+      "14": "1684",
+      "15": "4345",
+      "16": "4295",
+      "17": "4145",
+      "18": "4175",
+      "19": "1775",
+      "2": "3859",
+      "3": "3814",
+      "4": "6730",
+      "5": "21",
+      "6": "1697",
+      "7": "4106",
+      "8": "3942",
+      "9": "4182"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "ukrainian": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Saber Interactive",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2183900",
+    "homepage": "https://community.focus-entmt.com/focus-entertainment/space-marine-2?utm_source=Steam&amp;utm_medium=StorePage_SM2&amp;utm_campaign=Organic",
+    "mustownapptopurchase": "2183900",
+    "publisher": "Focus Entertainment"
+  }
+}

@@ -1584,6 +1584,115 @@
     "added_ts": 1795064765
   },
   {
+    "id": "game-2183900",
+    "appid": 2183900,
+    "name": "Warhammer 40,000: Space Marine 2",
+    "developer": "Saber Interactive",
+    "publisher": "Focus Entertainment",
+    "installdir": "Space Marine 2",
+    "launch_exes": [
+      "Warhammer 40000 Space Marine 2.exe",
+      "client_pc\\root\\bin\\pc\\MagnusEosBootstrapperRelease.exe",
+      "MagnusEosBootstrapperRelease.exe",
+      "client_pc\\root\\bin\\pc\\MagnusEosBootstrapperRetail.exe",
+      "MagnusEosBootstrapperRetail.exe",
+      "client_pc\\root\\bin\\pc\\MagnusEosBootstrapperProfile.exe",
+      "MagnusEosBootstrapperProfile.exe",
+      "client_pc\\root\\bin\\pc\\Warhammer 40000 Space Marine 2 - Retail.exe",
+      "Warhammer 40000 Space Marine 2 - Retail.exe",
+      "launcher_pc_profile.bat",
+      "MagnusEOSBootstrapperProfile.exe",
+      "MagnusEOSBootstrapperRelease.exe",
+      "client_pc\\root\\bin\\pc\\MagnusClientRetail.exe",
+      "MagnusClientRetail.exe",
+      "MagnusEOSBootstrapperRetail.exe",
+      "Artbook\\open.bat",
+      "open.bat",
+      "launcher_pc_release.bat",
+      "launcher_pc_retail.bat"
+    ],
+    "launch_exe": "Warhammer 40000 Space Marine 2.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26944055",
+    "has_metadata": true,
+    "depot_base": 2183901,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2183900/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2183900/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26944055",
+        "branch": "public 🔥Patch Notes 16.0",
+        "label": "public 🔥Patch Notes 16.0 - Build 26944055 (11/19/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2183901",
+          "3202690",
+          "3212040"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "26074365",
+        "branch": "public Hotfix 15.2",
+        "label": "public Hotfix 15.2 - Build 26074365 (11/19/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "2183901",
+          "3202690",
+          "3212040"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795763987
+  },
+  {
     "id": "game-218620",
     "appid": 218620,
     "name": "PAYDAY 2",

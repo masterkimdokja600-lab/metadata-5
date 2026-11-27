@@ -1,0 +1,173 @@
+{
+  "_change_number": 40970838,
+  "_missing_token": false,
+  "_sha": "895b3e73bea6cf9535f591948defbcb3c4b14631",
+  "_size": 3536,
+  "appid": "4997640",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Saber Interactive",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Focus Entertainment",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_64": "1",
+      "category_65": "1",
+      "category_66": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "gameid": "4997640",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "3"
+    },
+    "header_image": {
+      "english": "8ba695e865d15e4e346061f55483a2f50a338151/header.jpg"
+    },
+    "name": "Warhammer 40,000: Space Marine 2 - Space Wolves Champion Pack",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2183900",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "80",
+    "review_score": "8",
+    "small_capsule": {
+      "english": "321faca9bba9e4a1370a3ae752fdc2aed6fa9c0f/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1790845538",
+    "store_asset_mtime": "1789390602",
+    "store_screenshot": "1bfaf9261a9831873b30d2b3f072c5707039f9cb/ss_1bfaf9261a9831873b30d2b3f072c5707039f9cb.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "2": "122",
+      "3": "4345",
+      "4": "4667"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "ukrainian": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Saber Interactive",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2183900",
+    "homepage": "https://community.focus-entmt.com/focus-entertainment/space-marine-2?utm_source=Steam&amp;utm_medium=StorePage_SM2&amp;utm_campaign=Organic",
+    "mustownapptopurchase": "2183900",
+    "publisher": "Focus Entertainment"
+  }
+}

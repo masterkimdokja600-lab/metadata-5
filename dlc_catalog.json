@@ -1,7 +1,7 @@
 {
-  "updated_at": 1795753931,
-  "total_games": 16,
-  "total_dlcs": 308,
+  "updated_at": 1795763992,
+  "total_games": 17,
+  "total_dlcs": 337,
   "games": {
     "1238810": [
       "1254580",
@@ -66,6 +66,37 @@
       "2161741",
       "2161742",
       "2334020"
+    ],
+    "2183900": [
+      "2486150",
+      "2792140",
+      "2792150",
+      "2792170",
+      "2792180",
+      "2792190",
+      "2792280",
+      "3202690",
+      "3212040",
+      "3274400",
+      "3274410",
+      "3274430",
+      "3274440",
+      "3871320",
+      "3871330",
+      "3871340",
+      "3871350",
+      "3871360",
+      "3871370",
+      "3871380",
+      "3871390",
+      "3871400",
+      "3871410",
+      "4247850",
+      "4997640",
+      "4997650",
+      "4997660",
+      "4997670",
+      "4997770"
     ],
     "218620": [
       "218630",
@@ -2620,6 +2651,15 @@
       "store_visible": false,
       "metadata_file": "1566390/DLCs/2452270.json"
     },
+    "2486150": {
+      "appid": "2486150",
+      "name": "Warhammer 40,000: Space Marine 2 - Macragge’s Chosen",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2486150/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/2486150.json",
+      "metadata_status": "appinfo"
+    },
     "2492640": {
       "appid": "2492640",
       "name": "Jurassic World Evolution 2: Prehistoric Marine Species Pack",
@@ -2635,6 +2675,60 @@
       "parent": "1244460",
       "store_visible": false,
       "metadata_file": "1244460/DLCs/2610980.json"
+    },
+    "2792140": {
+      "appid": "2792140",
+      "name": "Warhammer 40,000: Space Marine 2 - Ultramarines Champion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792140/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/2792140.json",
+      "metadata_status": "appinfo"
+    },
+    "2792150": {
+      "appid": "2792150",
+      "name": "Warhammer 40,000: Space Marine 2 - Ultramarines Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792150/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/2792150.json",
+      "metadata_status": "appinfo"
+    },
+    "2792170": {
+      "appid": "2792170",
+      "name": "Warhammer 40,000: Space Marine 2 - Dark Angels Chapter Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792170/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/2792170.json",
+      "metadata_status": "appinfo"
+    },
+    "2792180": {
+      "appid": "2792180",
+      "name": "Warhammer 40,000: Space Marine 2 - Space Wolves Chapter Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792180/8fa35824d2f19defb653d382367e2fe0e3ca217c/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/2792180.json",
+      "metadata_status": "appinfo"
+    },
+    "2792190": {
+      "appid": "2792190",
+      "name": "Warhammer 40,000: Space Marine 2 - White Scars Chapter Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792190/51474ca168c0fb0a5cc5c498ae85acf915fcb318/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/2792190.json",
+      "metadata_status": "appinfo"
+    },
+    "2792280": {
+      "appid": "2792280",
+      "name": "Warhammer 40,000: Space Marine 2 - Season Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792280/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/2792280.json",
+      "metadata_status": "appinfo"
     },
     "2806860": {
       "appid": "2806860",
@@ -2699,6 +2793,60 @@
       "parent": "2999030",
       "store_visible": false,
       "metadata_file": "2999030/DLCs/3140320.json"
+    },
+    "3202690": {
+      "appid": "3202690",
+      "name": "Warhammer 40,000: Space Marine 2 - 4K Texture Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3202690/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3202690.json",
+      "metadata_status": "appinfo"
+    },
+    "3212040": {
+      "appid": "3212040",
+      "name": "Warhammer 40,000: Space Marine 2 - Digital Artbook",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3212040/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3212040.json",
+      "metadata_status": "appinfo"
+    },
+    "3274400": {
+      "appid": "3274400",
+      "name": "Warhammer 40,000: Space Marine 2 - Raven Guard Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3274400/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3274400.json",
+      "metadata_status": "appinfo"
+    },
+    "3274410": {
+      "appid": "3274410",
+      "name": "Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3274410/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3274410.json",
+      "metadata_status": "appinfo"
+    },
+    "3274430": {
+      "appid": "3274430",
+      "name": "Warhammer 40,000: Space Marine 2 - Imperial Fists Champion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3274430/c718eb4cbdd8e07928c71df16d518f856247442b/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3274430.json",
+      "metadata_status": "appinfo"
+    },
+    "3274440": {
+      "appid": "3274440",
+      "name": "Warhammer 40,000: Space Marine 2 - Blood Angels Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3274440/9dd45a32604ff536063f0127068c35b5be67ad51/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3274440.json",
+      "metadata_status": "appinfo"
     },
     "3276090": {
       "appid": "3276090",
@@ -2780,6 +2928,96 @@
       "store_visible": false,
       "metadata_file": "2958130/DLCs/3651200.json"
     },
+    "3871320": {
+      "appid": "3871320",
+      "name": "Warhammer 40,000: Space Marine 2 - Season Pass 2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871320/b57307ad10631ea21ad7ff9d37c2bf9a63e4e534/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871320.json",
+      "metadata_status": "appinfo"
+    },
+    "3871330": {
+      "appid": "3871330",
+      "name": "Warhammer 40,000: Space Marine 2 - Black Templars Champion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871330/d7d2586bdb1bf145eb82f046a076f4b72866759e/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871330.json",
+      "metadata_status": "appinfo"
+    },
+    "3871340": {
+      "appid": "3871340",
+      "name": "Warhammer 40,000: Space Marine 2 - Imperial Fists Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871340/0b2cea31aa54cd2f92739eeeb28c23e84abe8fd8/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871340.json",
+      "metadata_status": "appinfo"
+    },
+    "3871350": {
+      "appid": "3871350",
+      "name": "Warhammer 40,000: Space Marine 2 - Blood Angels Champion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871350/6c2629467fb57d21d7a59e47cdb5ac6acb541a86/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871350.json",
+      "metadata_status": "appinfo"
+    },
+    "3871360": {
+      "appid": "3871360",
+      "name": "Warhammer 40,000: Space Marine 2 - Salamanders Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871360/fe55cf50a9a7b93070586474f534cbd4cb4c3a90/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871360.json",
+      "metadata_status": "appinfo"
+    },
+    "3871370": {
+      "appid": "3871370",
+      "name": "Warhammer 40,000: Space Marine 2 - Raven Guard Champion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871370/c2280a9baf6b49f6aa43ea29dec7c68a21221933/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871370.json",
+      "metadata_status": "appinfo"
+    },
+    "3871380": {
+      "appid": "3871380",
+      "name": "Warhammer 40,000: Space Marine 2 - Carcharodons Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871380/390a165826dcd474af17be77dcdda8875f3eb63e/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871380.json",
+      "metadata_status": "appinfo"
+    },
+    "3871390": {
+      "appid": "3871390",
+      "name": "Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871390/a67fa89952f991193b28a473326bbc74c39d0fe3/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871390.json",
+      "metadata_status": "appinfo"
+    },
+    "3871400": {
+      "appid": "3871400",
+      "name": "Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack 2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871400/619f2d8d7b75fd5fb35ca5b3fa75361594ccab76/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871400.json",
+      "metadata_status": "appinfo"
+    },
+    "3871410": {
+      "appid": "3871410",
+      "name": "Warhammer 40,000: Space Marine 2 - Raptors Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3871410/dc04e6d33abb636b6c29ac0a642f8826d6add4f6/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/3871410.json",
+      "metadata_status": "appinfo"
+    },
     "4131660": {
       "appid": "4131660",
       "name": "Jurassic World Evolution 3: Wetlands",
@@ -2795,6 +3033,15 @@
       "parent": "2958130",
       "store_visible": false,
       "metadata_file": "2958130/DLCs/4131670.json"
+    },
+    "4247850": {
+      "appid": "4247850",
+      "name": "Warhammer 40,000: Space Marine 2 - Chapter Voice Pack 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4247850/9ff9f7110a0a553f22196764590bc83857ce4b84/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/4247850.json",
+      "metadata_status": "appinfo"
     },
     "4553980": {
       "appid": "4553980",
@@ -2865,6 +3112,51 @@
       "metadata_file": "4883590/DLCs/4908330.json",
       "metadata_status": "appinfo"
     },
+    "4997640": {
+      "appid": "4997640",
+      "name": "Warhammer 40,000: Space Marine 2 - Space Wolves Champion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997640/8ba695e865d15e4e346061f55483a2f50a338151/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/4997640.json",
+      "metadata_status": "appinfo"
+    },
+    "4997650": {
+      "appid": "4997650",
+      "name": "Warhammer 40,000: Space Marine 2 - Exorcists Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997650/41337da2e73af9189b2febda3f9de6e4662f89b8/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/4997650.json",
+      "metadata_status": "appinfo"
+    },
+    "4997660": {
+      "appid": "4997660",
+      "name": "Warhammer 40,000: Space Marine 2 - Deathwatch Champion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997660/a53b75c3bce78940b6ca11f5e8ee68db584b1f3c/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/4997660.json",
+      "metadata_status": "appinfo"
+    },
+    "4997670": {
+      "appid": "4997670",
+      "name": "Warhammer 40,000: Space Marine 2 - Mortifactors Cosmetic Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997670/b0b336436ce2cea0deed00ed25f7a666829f174d/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/4997670.json",
+      "metadata_status": "appinfo"
+    },
+    "4997770": {
+      "appid": "4997770",
+      "name": "Warhammer 40,000: Space Marine 2 - Season Pass 3",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997770/36ac7428843ed9a470d334f2d554002596f43260/header.jpg",
+      "parent": "2183900",
+      "store_visible": false,
+      "metadata_file": "2183900/DLCs/4997770.json",
+      "metadata_status": "appinfo"
+    },
     "5125950": {
       "appid": "5125950",
       "name": "Jurassic World Evolution 3: Prehistoric East",
@@ -2887,6 +3179,14 @@
       "discovered": 5,
       "stored": 5,
       "full_appinfo": 5,
+      "steam_store": 0,
+      "parent_appinfo": 0,
+      "missing_files": []
+    },
+    "2183900": {
+      "discovered": 29,
+      "stored": 29,
+      "full_appinfo": 29,
       "steam_store": 0,
       "parent_appinfo": 0,
       "missing_files": []
