@@ -1,8 +1,12 @@
 {
-  "updated_at": 1795843266,
-  "total_games": 18,
-  "total_dlcs": 338,
+  "updated_at": 1795886796,
+  "total_games": 19,
+  "total_dlcs": 340,
   "games": {
+    "1004640": [
+      "3589750",
+      "3589760"
+    ],
     "1238810": [
       "1254580",
       "1254581",
@@ -2875,6 +2879,24 @@
       "store_visible": false,
       "metadata_file": "239140/DLCs/3454290.json"
     },
+    "3589750": {
+      "appid": "3589750",
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles: Pre-order Bonuses",
+      "image": "",
+      "parent": "1004640",
+      "store_visible": false,
+      "metadata_file": "1004640/DLCs/3589750.json",
+      "metadata_status": "appinfo"
+    },
+    "3589760": {
+      "appid": "3589760",
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles: Deluxe Edition Bonuses",
+      "image": "",
+      "parent": "1004640",
+      "store_visible": false,
+      "metadata_file": "1004640/DLCs/3589760.json",
+      "metadata_status": "appinfo"
+    },
     "3602840": {
       "appid": "3602840",
       "name": "Call of Duty®: Modern Warfare® II - Campaign",
@@ -3207,6 +3229,14 @@
       "discovered": 1,
       "stored": 1,
       "full_appinfo": 1,
+      "steam_store": 0,
+      "parent_appinfo": 0,
+      "missing_files": []
+    },
+    "1004640": {
+      "discovered": 2,
+      "stored": 2,
+      "full_appinfo": 2,
       "steam_store": 0,
       "parent_appinfo": 0,
       "missing_files": []

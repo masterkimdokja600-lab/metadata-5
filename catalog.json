@@ -1,5 +1,70 @@
 [
   {
+    "id": "game-1004640",
+    "appid": 1004640,
+    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "installdir": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+    "launch_exes": [
+      "FFT_enhanced.exe"
+    ],
+    "launch_exe": "FFT_enhanced.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24304444",
+    "has_metadata": true,
+    "depot_base": 1004641,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1004640/988d2f00c81b45d6aab89e5a1737d0737165f905/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1004640/2d8e4389e157b62f07bdc7c9468bf04010d574c0/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24304444",
+        "branch": "public",
+        "label": "Public - Build 24304444 (07/21/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1004641"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795886793
+  },
+  {
     "id": "game-108600",
     "appid": 108600,
     "name": "Project Zomboid",

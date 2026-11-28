@@ -1,0 +1,25 @@
+{
+  "_change_number": 31535921,
+  "_missing_token": false,
+  "_sha": "a9531ab73c1b4030f9782969c730c4e3f21016f4",
+  "_size": 533,
+  "appid": "3589750",
+  "common": {
+    "gameid": "3589750",
+    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles: Pre-order Bonuses",
+    "name_localized": {
+      "japanese": "ファイナルファンタジータクティクス - イヴァリース クロニクルズ 予約特典"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1004640",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1004640",
+    "mustownapptopurchase": "1004640"
+  }
+}

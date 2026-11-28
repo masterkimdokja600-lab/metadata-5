@@ -1,0 +1,47 @@
+{
+  "_change_number": 31402978,
+  "_missing_token": false,
+  "_sha": "85c1b54c45b93307440782f7870bb551e3eedee7",
+  "_size": 896,
+  "appid": "3589760",
+  "common": {
+    "gameid": "3589760",
+    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles: Deluxe Edition Bonuses",
+    "name_localized": {
+      "japanese": "ファイナルファンタジータクティクス - イヴァリース クロニクルズ デラックスエディション特典"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1004640",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "122",
+      "1": "4434",
+      "10": "4166",
+      "11": "1684",
+      "12": "4057",
+      "13": "5094",
+      "14": "1742",
+      "15": "4325",
+      "16": "4182",
+      "17": "4155",
+      "18": "5608",
+      "19": "3964",
+      "2": "21725",
+      "3": "14139",
+      "4": "9",
+      "5": "1741",
+      "6": "599",
+      "7": "5851",
+      "8": "10695",
+      "9": "4791"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1004640",
+    "mustownapptopurchase": "1004640"
+  }
+}
