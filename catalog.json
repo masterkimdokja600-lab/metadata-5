@@ -3025,6 +3025,74 @@
     "added_ts": 1794766615
   },
   {
+    "id": "game-3180070",
+    "appid": 3180070,
+    "name": "No, I'm not a Human",
+    "developer": "Trioskaz",
+    "publisher": "CRITICAL REFLEX",
+    "installdir": "No, I'm not a Human",
+    "launch_exes": [
+      "NoImNotAHuman.exe"
+    ],
+    "launch_exe": "NoImNotAHuman.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "23967901 Hotfix v. 1.3.19 — Steam Cloud Saves and Ukrainian localization",
+    "has_metadata": true,
+    "depot_base": 3180071,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3180070/463354a2b81d416ddb538aa80fe65c75d0e4dcea/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3180070/fadebc14211b17b5a6603926612ead9294cad9ce/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "23967901 Hotfix v. 1.3.19 — Steam Cloud Saves and Ukrainian localization",
+        "branch": "public",
+        "label": "Public - Build 23967901 Hotfix v. 1.3.19 — Steam Cloud Saves and Ukrainian localization (06/29/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3180071",
+          "4521370"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795843263
+  },
+  {
     "id": "game-3595230",
     "appid": 3595230,
     "name": "Call of Duty®: Modern Warfare® II",

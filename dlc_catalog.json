@@ -1,7 +1,7 @@
 {
-  "updated_at": 1795763992,
-  "total_games": 17,
-  "total_dlcs": 337,
+  "updated_at": 1795843266,
+  "total_games": 18,
+  "total_dlcs": 338,
   "games": {
     "1238810": [
       "1254580",
@@ -250,6 +250,9 @@
       "3140320",
       "3276090",
       "3377260"
+    ],
+    "3180070": [
+      "4521370"
     ],
     "3595230": [
       "3602840",
@@ -3043,6 +3046,15 @@
       "metadata_file": "2183900/DLCs/4247850.json",
       "metadata_status": "appinfo"
     },
+    "4521370": {
+      "appid": "4521370",
+      "name": "No, I'm not a Human - Digital Artbook",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521370/687f0bc3539f698d15d330085f8f82678f95b0d6/header.jpg",
+      "parent": "3180070",
+      "store_visible": false,
+      "metadata_file": "3180070/DLCs/4521370.json",
+      "metadata_status": "appinfo"
+    },
     "4553980": {
       "appid": "4553980",
       "name": "Jurassic World Evolution 3: Crocodilia Coast",
@@ -3187,6 +3199,14 @@
       "discovered": 29,
       "stored": 29,
       "full_appinfo": 29,
+      "steam_store": 0,
+      "parent_appinfo": 0,
+      "missing_files": []
+    },
+    "3180070": {
+      "discovered": 1,
+      "stored": 1,
+      "full_appinfo": 1,
       "steam_store": 0,
       "parent_appinfo": 0,
       "missing_files": []
